@@ -5,7 +5,7 @@ venv
 **/.DS_Store
 .env
 
-# Client-sensitive data — never commit
-gold_standard_letters/gold_standard.csv
-gold_standard_letters/gold_standard_evaluated.csv
-gold_standard_letters/letter_analysis.csv
+# Generated data — exclude from repo (re-run notebooks to regenerate)
+gold_standard/gold_standard.csv
+gold_standard/gold_standard_evaluated.csv
+gold_standard/model_metrics.csv

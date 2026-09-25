@@ -1,16 +1,11 @@
-# Machine Learning Module 2 Project
+# Reading Age Predictor
 
-This project, developed as part of the Module 2 ML & AI portfolio assessment, aims to build and evaluate machine learning models to estimate the UK reading age required for understanding public sector letters. This helps ensure communications are accessible, regulatory compliant, and appropriate for children and young people in public sector contexts.
+A machine learning pipeline that predicts the UK reading age of a text from its linguistic and structural features. Seven regression models are trained, compared, and validated against a gold standard dataset of public domain book excerpts spanning reading ages 6–17.
 
 ## Project Structure
 
 ```
-├── .venv/
-├── data/
-│   ├── raw_data/                # Untouched CEFR-level source texts (A1, A2, ...)
-│   ├── processed_data/          # Model-ready CSVs: train.csv, test.csv, features.csv
-│   └── grouped_by_reading_band/ # Texts grouped by derived reading bands (6-7, 8-12, ...)
-├── preprocessing_data/          # Notebooks for cleaning, scoring, and organizing data
+├── preprocessing_data/          # Notebooks for cleaning, scoring, and organising data
 │   ├── 01_preprocess_raw_texts.ipynb
 │   ├── 02_clean_and_organise_dataset.ipynb
 │   ├── 03_explore_and_validate_readability.ipynb
@@ -18,35 +13,32 @@ This project, developed as part of the Module 2 ML & AI portfolio assessment, ai
 │   ├── raw_texts_all_levels_with_smog_and_flesch_kincaid_scores.csv
 │   └── analysis_outputs/
 │       ├── duplicates_review.csv
-│       └── outliers/
-│       └── plots/               # Any useful diagrams
-├── experiments/                 # Notebooks for feature engineering, modeling, evaluation
-│   └── linear_regression/
-│       └── lasso_model_training.ipynb
-│       └── linear_model_training.ipynb
-│       └── ridge_model_training.ipynb
-│   └── regression_decision_tree/
-│       └── decision_tree_model_training.ipynb
-│   └── regression_random_forest/
-│       └── random_forest_model_training.ipynb
-│   └── scratchpad/
-│       └── model_exploration.ipynb
-│   └── evaluation_and_inference.ipynb
+│       ├── outliers/
+│       └── plots/
+├── experiments/                 # Feature engineering, model training, evaluation
+│   ├── linear_regression/
+│   ├── regression_decision_tree/
+│   ├── regression_random_forest/
+│   ├── ensemble_methods/
+│   ├── scratchpad/
+│   ├── feature_engineering.ipynb
+│   ├── feature_engineering.csv
+│   ├── evaluation_and_inference.ipynb
 │   └── all_model_results.csv
-│   └── feature_engineering.csv
-│   └── feature_engineering.ipynb
-├── scripts/                     # Final pipeline and prediction scripts
+├── gold_standard/               # Validation against public domain book excerpts
+│   ├── book_excerpts.csv        # Source texts (Beatrix Potter → Jane Austen)
+│   ├── GoldStandardPrep.ipynb   # Builds gold_standard.csv from book_excerpts.csv
+│   ├── evaluate_models_on_gold_standard_data.ipynb
+│   ├── simplify_text.ipynb      # GPT simplification pipeline (requires OPENAI_API_KEY)
+│   └── model_metrics.csv
+├── scripts/                     # Production scripts
 │   ├── data_prep_and_training.py
 │   ├── evaluate_model.py
 │   └── predict.py
-├── models/                      # Saved trained model files
-│   └── decision_tree_regressor.joblib
-│   └── random_forest_regressor.joblib
-│   └── linear_regression.joblib
-│   └── lasso_regression.joblib
-│   └── ridge_regression.joblib
-├── requirements.txt             # Python dependencies
-└── README.md                    # Project documentation
+├── models/                      # Saved trained model files (.joblib)
+├── supporting_documents/
+├── requirements.txt
+└── README.md
 ```
 
 ## Quickstart
@@ -126,11 +118,22 @@ The target variable (y) is the estimated UK reading age (numeric), derived using
 
 ## Scripts
 
-These will be the production ready scripts using py files not jupyter notebooks. They will use the best performing model
+Production scripts using the best-performing model (Ridge Regression).
 
-- **scripts/data_prep_and_training.py**: End-to-end pipeline for data prep, feature extraction, and model training
-- **scripts/evaluate_model.py**: Evaluate model performance on the test set
-- **scripts/predict.py**: Make predictions on new data using the trained model
+- **scripts/data_prep_and_training.py** — end-to-end pipeline: feature engineering, trains all 7 models, saves to `models/`
+- **scripts/evaluate_model.py** — evaluates all saved models on the held-out test set, prints MAE / RMSE / R²
+- **scripts/predict.py** — predicts reading age for a single text string, a CSV file, or interactively
+
+```bash
+# Single text
+python scripts/predict.py "It was a dark and stormy night."
+
+# CSV (must have a 'text' column)
+python scripts/predict.py --csv my_texts.csv
+
+# Interactive mode
+python scripts/predict.py
+```
 
 ## Models
 
@@ -140,15 +143,18 @@ These will be the production ready scripts using py files not jupyter notebooks.
 
 All code dependencies are managed via a shared requirements.txt for portability and reproducibility. This approach ensures consistency across development environments.
 
-## Notes
+## Gold Standard Validation
 
-- Preprocessing and analysis are separated from experiments/modeling for clarity.
-- See each notebook for step-by-step documentation and outputs.
+The `gold_standard/` folder validates model performance against eight public domain book excerpts
+with known reading levels (Beatrix Potter age 6 through to Jane Austen age 17).
+
+1. Run `GoldStandardPrep.ipynb` to generate `gold_standard.csv`
+2. Run `evaluate_models_on_gold_standard_data.ipynb` to score all models
+3. Optionally run `simplify_text.ipynb` (requires `OPENAI_API_KEY`) to generate GPT-simplified versions
 
 ## Acknowledgements & References
-
-Project inspired by NHS Readability and CEFR public datasets.
 
 - [NHS Readability Tool](https://readability.ncldata.dev/)
 - [CEFR Levelled English Texts (Adam Montgomerie, GitHub)](https://github.com/AMontgomerie/CEFR-English-Level-Predictor)
 - [CEFR Levelled English Texts (Kaggle)](https://www.kaggle.com/datasets/amontgomerie/cefr-levelled-english-texts)
+- Public domain texts sourced via [Project Gutenberg](https://www.gutenberg.org/)
