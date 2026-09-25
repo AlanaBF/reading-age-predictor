@@ -1,0 +1,11 @@
+pandas 
+scikit-learn
+textstat
+numpy 
+matplotlib 
+seaborn
+optuna 
+xgboost
+flask
+nltk
+Jinja2

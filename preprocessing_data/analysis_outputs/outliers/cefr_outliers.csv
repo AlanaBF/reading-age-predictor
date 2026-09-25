@@ -1,0 +1,741 @@
+cefr_folder,title,cefr_age_group,text,flesch_kincaid_score,smog_score,fk_estimated_uk_age_num,reading_band,lexicon_count,sentence_count,syllables_per_word,polysyllable_count,monosyllable_count,flesch_reading_ease,coleman_liau_index,automated_readability_index,dale_chall_readability_score,difficult_words,linsear_write_formula,gunning_fog,text_standard,spache_readability,reading_time
+A1,an_application_form,6-8,"Library card application
+First name	MIKE
+Last name	ESPOSA-HERNANDEZ
+Date of birth	08/11/1991
+Address	4 CHARLES ROAD, GLOUCESTER
+Postcode	GL1 3ZE
+Phone	07796 345678
+Email	m.esposa@example.com
+I declare the information provided is correct.
+Signature Mike Esposa-Hernandez
+Date 03/07/2018
+ 
+Your checklist
+Have you got everything you need?
+[ ✔ ] a passport photo
+[ ✔ ] a copy of my passport or other photo ID
+[ ✔ ] proof of address
+Your card will be issued within 15 days and sent to the address provided.",10.917166666666668,12.161744961471694,16,15-16,75,4,1.6266666666666667,10,48,50.18775000000002,13.168,11.326785714285712,11.5141,16,11.875,11.766666666666666,11th and 12th grade,5.661416666666666,6.12573
+A1,an_email_to_book_a_hotel,6-8,"o: info@ascot-hotel.co.uk
+From: David Mathews
+Subject: Booking 2 nights next week
+Dear Ascot Hotel,
+I would like to reserve an accessible single room for two nights with breakfast on the 22 and 23 of April. Could I have a quiet room with a view if possible, please?
+I will arrive at about 10 p.m. and I have an early meeting the next morning, so please could you leave an iron and ironing board in the room?
+I have a promotional code (MH2219). Please can you confirm that it is £80 per night with breakfast included?
+Please could you confirm the booking? Let me know if you need any further information.
+Many thanks.
+With kind regards,
+David Mathews",5.919316239316242,8.167268648758528,11,8-12,117,9,1.393162393162393,7,82,75.77846153846157,7.155555555555555,6.526666666666667,8.195060683760683,15,7.0,7.251282051282051,6th and 7th grade,3.995076923076923,7.82977
+A1,an_email_to_confirm_an_appointment,6-8,"From: Arina Marat, HR Assistant
+To: Jane Claret
+Subject: Your appointment on 14 March
+Dear Ms Claret,
+Thank you for your email.
+I am writing to confirm your appointment with our HR manager, Mrs Sofia Aronov.
+Your appointment will take place at 3 p.m. on Thursday 14 March at our Astana offices in Emerald Towers. 
+When you arrive, please go to the reception on the 26th floor and ask for me. I will take you to Mrs Aronov's office. 
+We look forward to meeting you soon.
+Best regards,
+Arina Marat
+HR Assistant",5.953695652173913,9.188382445141505,11,8-12,92,8,1.4456521739130437,9,60,72.86032608695655,6.717391304347828,5.5661956521739135,10.042334782608696,15,5.875,8.078260869565218,5th and 6th grade,4.517021739130435,6.096349999999999
+A1,a_noticeboard_message,6-8,"Looking for a housemate
+Single ensuite room available in our lovely three-bedroom house in Didsbury. Five-minute walk from city centre. Move in from 1 June. Shared kitchen and living room with two female housemates, no parking, £600 a month excluding bills. No pets. Contact 07890 123456 for viewing.",5.608166666666669,7.554174236665414,11,8-12,48,5,1.4791666666666667,3,29,71.9535,10.358333333333338,8.195625,11.020785,13,4.4,6.34,5th and 6th grade,4.521766666666666,3.71657
+A1,business_cards,6-8,"KPD Foods
+Bruno Silva
+Head of Marketing
+Address: Avenida Paulista 53, Bela Vista, São Paulo, 01311-914, Brazil
+Tel: (+55) 11 8134 7706
+Email: bruno.silva@KPDFoods.com
+Getty Telecommunications Ltd
+Olivia Hoskins
+International Project Manager
+Address: 700 Rockville Street, Monroe, New York 10950, USA
+Tel: (+1) 845 228 8396
+Email: Olivia.Hoskins@GettyTel.com
+Orion Education Services
+Park Ji-Yeon
+Director
+Address: South Korea, Seoul, Jongno-gu, Sajik-ro-3-gil 23, 30174
+Tel: (+82) 2 235-6482
+Email: Jiyeon_Park@OrionEducation.com
+ABC Travel
+Rashid Khan
+Sales Representative
+Address: Hajar Road, Dubai, UAE
+Tel: (+971) 4 677 3355
+Email: Rashid.Khan@ABCTravelDubai.com",15.846162790697672,15.247664890283003,21,>18,86,4,1.9534883720930232,18,44,19.74738372093026,18.297674418604657,21.139883720930236,18.289644186046512,34,15.25,16.506976744186044,14th and 15th grade,7.570499999999999,8.534889999999999
+A1,christmas_time,6-8,It is Christmas. Dad gives Tim a toy. The toy is in the box. Tim takes off the lid. He sees the toy. It is a car. The car is red. The car makes noises. The car moves fast. Tim likes the gift. He hugs his dad. Dad smiles.,-1.571094619666047,3.1291,3,≤5,49,11,1.0408163265306123,0,47,114.26057513914655,-3.506122448979593,-2.6696660482374774,7.724384230055659,1,1.227272727272727,1.7818181818181815,-3th and -2th grade,1.6426011131725415,2.52668
+A1,dictionary_definitions,6-8,"attend 
+(v)
+to officially go to a place, like a school, university or class
+You must attend 80 per cent of classes to pass the course.
+dormitory plural dormitories
+(n)
+1. a place where many people sleep
+2. US: a big building at a university where students live (UK: hall of residence)
+I know John. He lives in my dorm at university.
+faculty plural faculties
+(n)
+all the teachers who work at a university
+Norman Brown was in the English faculty for twenty years.
+teaching assistant
+(n)
+a person who works to help a university teacher in a classroom
+The teaching assistant has the exams for you at the end of class.
+tuition fee
+(n)
+an amount of money that you pay to go to university
+Tuition fees are very high this year.
+undergraduate
+(n)
+a student at a college or university who is studying for a first degree
+They met when they were undergraduates at Cambridge University.",10.07691983122363,12.060818386365153,15,15-16,158,9,1.5949367088607596,22,109,54.08446554149086,7.769620253164557,8.662018284106892,9.60402770745429,25,8.0,12.59184247538678,7th and 8th grade,5.219396624472575,10.50335
+A1,emails_about_studying_in_the_uk,6-8,"From: Simona Reggia
+To: City Language School
+Subject: Courses in August
+Dear Sir or Madam,
+I have seen your website and I would like to know more about your English courses.
+I am interested in taking a two-week course in August. Are there any places available, and what are the start dates?
+Also, do you have any accommodation for those dates?
+Thank you for your help.
+Regards,
+Simona
+From: Susan Colworth, City Language School
+To: Simona Reggia
+Subject: Re: Courses in August
+Attachment: accommodation_info.pdf
+Dear Simona,
+Thank you for your interest in our courses.
+Courses
+Yes, we have places on all our August courses.
+Start dates are 7, 14 and 21 August (Mondays).
+Accommodation
+Yes, we have rooms for students near the school. I am attaching some more information, photos and the prices.
+Which course would you like, and which start date? If you would like accommodation, please let me know soon, as it is very popular.
+Feel free to email me with any other questions.
+Regards,
+Susan Colworth
+Course Administrator
+City Language School",6.973080459770117,8.841846274778883,12,8-12,174,15,1.528735632183908,15,110,65.7299655172414,9.248275862068963,7.838793103448275,8.567722068965516,26,6.375,7.858390804597701,7th and 8th grade,4.402186206896552,12.73623
+A1,holiday_home_adverts,6-8,"City flat
+Beautiful two-bedroom city flat five minutes' walk from the cathedral. Fully equipped kitchen, living room with a large sofa and chairs, big TV and balcony. The balcony has space for four people to sit and gets the sun in the mornings, and the flat is light and warm. It has Wi-Fi and fast internet. The upstairs bedroom sleeps four people, with two double beds; the downstairs bedroom sleeps two in single beds. The flat is perfect for families and is near shops, bars and restaurants.
+Farmhouse
+Four-bedroom farmhouse in the countryside. All of the four double bedrooms are en suite with luxury shower and bath. Farm kitchen with barbecue, tables and chairs outside. Great for groups of friends. The supermarket is half an hour by car and you can take a train from the village into the city. Escape from normal life for a few days as we have … NO INTERNET and you can only use mobile phones at the bottom of the garden!",6.225481927710845,8.841846274778883,11,8-12,166,12,1.391566265060241,12,114,75.0676606425703,7.95060240963856,7.062415169660682,8.127452610441768,24,6.25,8.183935742971888,7th and 8th grade,4.084680722891566,11.23785
+A1,instructions_for_a_colleague,6-8,"From: Amelia Smith
+To: Tim Young
+Subject: Things to do for the team meeting
+Tim,
+We have a team meeting in Room 310 on Friday 26 November at 11 a.m. We are expecting 25 members of our international team there.
+Could you please book the room for us? 
+Would you please prepare 25 pens and notepads for the meeting? 
+Also, can you write an email to the team members to tell them the time and place of the meeting?
+Thanks very much for your help. If you have any questions about this just let me know – I'll be in the office tomorrow morning.
+Best,
+Amelia",5.7685714285714305,8.418075326091056,11,8-12,105,7,1.3142857142857145,6,80,80.42142857142859,5.868571428571428,5.798679245283022,7.237738095238095,7,6.714285714285714,7.523809523809525,5th and 6th grade,3.691142857142857,6.52236
+A1,job_adverts,6-8,"Do you like cars? Are you friendly and do you like chatting with people? Would you like to make £200 a day selling cars? If you answered yes to the above questions, we’d like you to be on our team! (Driving licence required.)
+Company
+Motor Ground is a car sales company that buys and sells used cars.
+Location
+Chennai, India
+ 
+We're looking for a marketing manager to manage an international team. Ability to speak English necessary. Salary is £50,000 a year.
+Company
+Groovy is a German clothes company that has shops in countries across Europe.
+Location
+Munich, Germany
+ 
+French teacher wanted to teach children between the ages of 3 and 12. Applicants must have teaching experience. £15 per hour.
+Company
+LinguaFun is a language school that offers modern language classes to students of all ages.
+Location
+Singapore
+ 
+Nurse needed in private hospital. Must be registered to work in the UK. £25,000 per year.
+Company
+Private hospital with 50 years' experience providing high-quality health care.
+Location
+London, UK",7.127715096123541,10.186864033877496,12,8-12,167,19,1.6347305389221556,29,97,59.61548061771197,8.964071856287422,6.768569177434607,10.312817176173969,42,4.909090909090909,8.306208635360859,9th and 10th grade,4.550172076898834,12.398359999999998
+A1,student_card_application,6-8,"Student ID card application
+First name: Samia
+Last name: Khan
+Date of birth: 09/10/1992
+Address: 5 Ledger Road, Cardiff
+Postcode: CF10 5RE
+Nationality: Canadian
+I declare that the information provided is correct.
+Signature: Samia Khan
+Date: 28/02/2019
+Your checklist – have you got everything you need?
+[ ✔ ] a passport photo
+[ ✔ ] a copy of your passport or other photo ID
+[ ✔ ] proof of student status e.g. a letter from your university
+Your card will be issued within 30 days and sent to the address provided.",10.66305555555556,11.698219412168324,16,15-16,81,4,1.5555555555555556,9,52,54.681250000000006,10.950617283950624,10.536978021978022,11.853616049382715,19,12.375,12.050617283950618,10th and 11th grade,6.030052469135802,6.199179999999999
+A2,an_accommodation_form,8-10,"University accommodation preference form
+First name	Lucy
+Surname	Watts
+Student number	S4085301
+Gender	female  
+Date of birth	25/07/2000
+Nationality	British
+Email address	lucyhelenwatts@example.com
+Phone	0123 456 789
+What type of accommodation would you prefer?
+Single room with bathroom ✔
+Single room with shared bathroom (with two or more other students)
+Shared room (with one other student)
+Family flat (adults __  children __)
+Which location would you prefer?
+On-campus ✔
+Off-campus
+Are you a smoker?
+Yes
+No ✔
+Do you have any health needs that affect your housing request?
+Yes ✔   (If yes, a university officer will contact you for more information.)
+No
+Please list your interests and hobbies, for example sport, music or other social interests.  You can also say if you prefer to stay up late as this information may be useful when we are allocating rooms. Please note that we cannot guarantee we will be able to offer accommodation to match your preferences.
+I played football for my sixth-form school and I am hoping to join a university team. I'm a morning person and I get up early to train and go to the gym. So I would prefer to share with other people who don't like late nights either! Also I am vegetarian and, if possible, I would prefer to share a kitchen with other non-meat eaters.",9.573333333333334,10.727762888450028,15,15-16,216,13,1.5833333333333333,23,139,56.02038461538464,10.183333333333334,9.84964685314685,9.139141595441597,38,8.0,10.349857549857552,9th and 10th grade,5.053065527065527,15.76237
+A2,choosing_a_conference_venue,8-10,"The International Centre
+Whether you are looking for a conference venue or a place to have your meetings and your training days, the International Centre is the perfect modern space for your event.
+Offering free Wi-Fi, secure parking and all-day refreshments, the International Centre has 120 meeting rooms and a theatre for up to 1,000 people.
+Conveniently located in the city centre, the International Centre is close to the shops and only a ten-minute walk to the train station.
+The Grand West
+The Grand West is a country house surrounded by rolling hills and beautiful scenery, only a 30-minute drive from the airport.
+With 76 hotel rooms, 12 meeting rooms and a conference room that takes up to 200 people, the Grand West offers free Wi-Fi and a whiteboard in every room.
+You can also make use of the gardens of the Grand West for team-building events and outdoor activities. Our indoor swimming pool, gym and 18-hole golf course will ensure that your event is relaxing and enjoyable for everyone.",12.206134453781516,12.785403640627711,17,17-18,170,7,1.5529411764705885,20,107,50.80617647058824,10.616470588235297,13.791857142857149,10.414012605042018,37,15.75,13.714285714285715,12th and 13th grade,6.590344537815126,12.23677
+A2,professional_profile_summaries,8-10,"Maria
+I am an architect with 20 years' experience of designing and developing spaces. I am a partner in the award-winning STG Architects Ltd, which is famous for its work on the Galroy Building in London. I enjoy working with people from all over the world and have international experience of working in Italy, Greece, Thailand, Australia and Brazil. I have a Master of Science from Sheffield University and a BA in Architecture from Hull University. I also speak Italian and Thai. When I am not working, I spend my time hiking, skiing and diving.
+Emily
+I am an experienced sales manager with 12 years' experience of developing customer service teams. I am skilled in negotiation, team motivation and building successful sales teams. After ten years of working in sales and customer service at Halo Bank, I am now the sales office manager of a team of 120 at Southern General Plastics Ltd. I have an MBA from Stanford University and a degree in Business Studies from Cornell University. I am creative and hardworking, and enjoy working with others.",10.928430675469784,13.172668634160411,16,15-16,179,11,1.7094972067039107,34,106,45.69471813103098,9.85810055865922,9.624855256475367,10.618487607922804,42,8.714285714285714,12.989537836465212,9th and 10th grade,5.679823260538344,12.79499
+B1,a_professional_profile,10-12,"David Beddingfield
+Digital Marketing Manager
+______________________________
+Summary
+Over the past six years I have held various roles in the field of digital marketing and communication and currently lead a small team in the Fast-Moving Consumer Goods (FMCG) sector. I have a proven track record of planning and implementing successful digital marketing campaigns across a range of channels.   
+______________________________
+Experience
+Digital Marketing Manager
+Krunch Ltd
+Jan 2017 – Present
+My role involves strategic focus on all areas of digital marketing within the company and working closely with the main marketing and communications teams. I design and lead all our digital marketing campaigns.
+Digital Marketing Executive
+Krunch Ltd
+June 2014 – Dec 2016
+I was responsible for overall social media strategy. I worked on many campaigns to drive engagement with the customers of our breakfast cereals and bars to build brand loyalty. I also led on three key product launches.
+Digital Marketing Assistant
+Food2Grab Ltd
+Sept 2013 – May 2014
+In this role I developed my existing knowledge and skills in the fields of social media and consumer goods. I supported the design of multi-channel marketing campaigns to promote brand awareness of our healthy snack range.",13.877242582897036,17.122413403193683,19,>18,191,9,1.7958115183246073,54,102,33.36878999418269,14.87225130890052,15.207502863688426,13.121478243164631,53,20.0,19.1695171611402,13th and 14th grade,7.2082966841186735,15.74768
+B1,chocolate_milk,10-12,James took the milk out of the refrigerator. He put the carton of milk on the counter. He took the cap off the carton of milk. He opened the kitchen cabinet. He took a glass out of the cabinet. He put the glass on the counter next to the milk. He poured some milk into the glass. He put the cap back on the carton of milk. He put the milk back into the refrigerator. He took the chocolate syrup out of the refrigerator. He poured some chocolate syrup into the glass of milk. He stirred the milk with a spoon. He licked the spoon.,2.731428571428573,6.67199483983844,8,8-12,105,13,1.2857142857142858,5,86,89.86549450549452,3.293333333333333,1.67274725274725,6.142448717948718,4,3.583333333333333,4.373626373626374,2nd and 3rd grade,2.7149890109890107,6.24325
+B1,clean_church,10-12,The janitor cleaned the church every day. He swept the floor with a broom. He mopped the floor with a mop. He vacuumed the carpet with a vacuum cleaner. He cleaned all the windows with a wet cloth. He cleaned the men's bathroom. He cleaned the women's bathroom. He cleaned the sinks in the bathrooms. He cleaned the toilets in the bathrooms. He cleaned the mirrors in the bathrooms. He scrubbed the steps outside the church. He scrubbed the steps with soapy water and a brush. He kept the steps clean. He kept the windows clean. He kept the bathrooms clean. He kept the floors clean. The steps were clean. The windows were clean. The bathrooms were clean. The floors were clean. It was a clean church.,0.7984926884139512,4.892091775363686,6,6-7,127,21,1.188976377952756,2,105,100.10926509186352,4.514960629921262,2.918612673415822,8.039375290588676,9,2.466666666666667,2.734008248968879,2nd and 3rd grade,2.7074623172103487,8.44675
+B1,clean_the_apartment,10-12,Kenneth cleaned his apartment. He emptied the trash. He washed the dirty dishes. He looked in his bathroom. The sink and bathtub were dirty. He scrubbed the sink and bathtub. He looked in his bedroom. Clothes were on the floor. He picked up the clothes. He put the shirts on hangers. He folded the pants. He put the pants in the dresser. He washed the dirty clothes. He looked in his living room. Papers were on the floor. Books and newspapers and magazines were on the floor. He picked them all up. He put them on the book shelves. Then he vacuumed his whole apartment.,1.0624060150375954,5.7502877580894305,6,6-7,105,19,1.2285714285714286,4,85,97.28864661654136,3.535238095238096,2.2365864661654165,7.218986215538847,9,1.9444444444444449,2.9724310776942353,1st and 2nd grade,2.355353383458646,6.84554
+B1,cnn_43,10-12,"It's not going to be Batman versus Superman versus Captain America after all.
+ Batman v Superman: Dawn of Justice and Captain America 3 were both set to arrive in theaters May 6, 2016, but Warner BrosCaped Crusader/Man of Steel showdown will be released March 25, 2016 instead, EW has confirmed.
+The Zack Snyder-directed film will star Henry Cavill as Superman, Ben Affleck as Batman, Gal Gadot as Wonder Woman, Jesse Eisenberg as Lex Luthor, and Jeremy Irons as Alfred.
+See the original story at EW.com.
+Your new Thor is a she
+Captain America being replaced by African-American partner
+Ben Affleck will be a great Batman, Adam West says
+Comic-Con: Ben Affleck's Batmanmakes an appearance",12.554631578947369,13.348371206891418,18,17-18,114,5,1.631578947368421,16,64,45.6614210526316,10.9859649122807,13.685263157894738,12.1083449122807,28,12.6,13.68140350877193,12th and 13th grade,6.694150877192982,8.43206
+B1,cnn_482,10-12,"An evacuation order was lifted Wednesday morning for more than 500 California homes on hillsides vulnerable to mudslides, authorities said.
+With the sun shining over much of Los Angeles, officials told people who live in the foothill areas of La Crescenta, La Canada Flintridge and Acton that they could return to their homes at 8 a.m. PT -LRB- 11 a.m. ET -RRB-.
+Officials ordered a mandatory evacuation for those residents Tuesday morning as a precaution when heavy rains were predicted.
+The dangerous mudslides did not develop, but this area was especially hit hard after a downpour Saturday unleashed a river of mud that damaged dozens of homes.
+Several of the homes were declared uninhabitable.
+A massive wildfire in the Angeles National Forest last summer burned hillsides where these homes are located.",11.615441657579062,13.925175675911133,17,17-18,131,7,1.6870229007633588,25,77,45.117862595419865,11.83969465648855,12.304089422028357,11.19411788440567,33,14.0,14.508615049073065,11th and 12th grade,5.906721919302072,9.95982
+B1,fresh_salad,10-12,"Margaret made a fresh salad. She peeled a yellow banana. She peeled a red apple. She peeled a green cucumber. She peeled an orange carrot. She peeled a brown potato. She peeled a white onion. She peeled a white egg. She chopped everything up with a sharp knife. She chopped everything into little pieces. She used her sharp knife to chop up the banana, apple, cucumber, carrot, potato, onion, and egg. She chopped up a tomato. She put all the little pieces into a bowl. She opened a bottle of salad dressing. She poured salad dressing on her fresh salad.",3.766000000000002,7.793537801064561,9,8-12,100,15,1.42,10,68,79.93633333333334,4.931999999999999,3.333833333333331,6.967266666666667,5,3.0,3.866666666666667,2nd and 3rd grade,2.4669999999999996,6.683949999999999
+B1,guide_to_digital_games_and_learning,10-12,"Guide to Digital Games and Learning
+How can games unlock a rich world of learning? This is the big question at the heart of the growing ‘games and learning’
+movement that’s gaining momentum in education. The Guide to Digital Games and Learning explains key ideas in
+game-based learning, pedagogy, implementation, and assessment. This guide makes sense of the available research,
+and provides suggestions for practical use.
+The Guide to Digital Games and Learning started as a series of blog posts
+written by Jordan Shapiro with support from the Joan Ganz Cooney Center at
+Sesame Workshop and the Games and Learning Publishing Council. We’ve
+brought together what we felt would be the most relevant highlights of Jordan’s
+posts. We wanted to create a dynamic, in-depth guide that answers many of the
+most pressing questions that educators, parents, and life-long learners have
+raised – questions around using digital games for learning. While we had
+educators in mind when developing this guide, any lifelong learner can use it to
+develop a sense of how to navigate the games space in an informed and
+meaningful way.
+We urge you to read it. Start with the introduction that provides an overview of games in the classroom. Then go straight to
+the second section which presents the way in which the research around digital games is evolving and talks about how
+pediatricians, academics, educators, and researchers are working to find answers to how games and technology affect
+learners of all ages. The third section, on ‘How to Start Using Digital Games for Learning’, provides examples of how some
+educators are using digital games in the classroom and how they find support when running into difficulties. The next
+section, ‘How to Choose a Digital Learning Game’, gives you a starting point for game selection by providing an
+understanding of the types of games available in the marketplace and how to go about selecting them. Ideas about how to
+overcome obstacles for using digital games in the classroom are presented in the next section and, finally, the last section
+takes an in-depth look at how some teachers are using games in the classroom and their real-life struggles and victories.",13.02357142857143,14.348710955821954,18,17-18,360,14,1.575,54,225,47.49000000000004,11.839444444444446,15.342461416699642,11.315650793650796,81,12.8,16.063492063492063,12th and 13th grade,7.235825396825396,26.92677
+B1,happy_cat,10-12,Bruce picked up the cat. The cat meowed. The cat didn't like most people. The cat liked to be alone. It liked to sleep on the sofa. It liked to sleep in the fruit bowl. It liked to sleep on top of the TV. It liked to chase bugs in the front yard. It liked to chase lizards in the back yard. It liked to chase flies in the kitchen. Bruce put the cat on the floor. He rubbed the cat's stomach. The cat liked that. The cat licked his hand. Bruce rubbed the cat's stomach some more. The cat meowed. The cat was happy.,-0.0326050420168044,3.1291,5,≤5,105,17,1.1142857142857143,0,93,106.29731092436975,0.8952380952380956,0.0048067226890786,7.251233893557423,4,2.3333333333333335,2.4705882352941178,-1th and 0th grade,2.2013109243697477,6.00821
+B1,hot_to_hot,10-12,The days were hot. The nights were hot. He turned on the living room fan. He turned on the dining room fan. Both fans were on high speed. They made a lot of noise. But they didn't blow cool air. They blew hot air. They blew hot air everywhere. He turned off the fans. He turned on the air conditioner. He closed all the windows. He closed the front door. The apartment began to cool down. It got cooler and cooler. Then he heard a bang. It was a loud bang. He thought a plane had crashed onto the roof. But it wasn't a plane. It was the air conditioner compressor. It had broken down. He opened the door. He opened the windows.,0.6940261576528819,5.7926816847441245,6,6-7,123,23,1.2032520325203253,5,105,99.61183457051963,1.29918699186992,0.5817179215270407,6.469231848709791,6,1.9444444444444449,3.1147401908801697,0th and 1st grade,2.2223117709437963,7.41845
+B1,out_of_food,10-12,"He drove to the supermarket. He was out of food. He had no food in his refrigerator. He had no food in his cupboards. He needed to buy some food. He hoped he would find a sale. A sale would save him money. He walked into the supermarket. He walked over to the produce section. The apples were on sale. The bananas were on sale. It was his lucky day. He loved apples. He loved bananas. The apples were only one dollar a pound. The regular price was $2.50 a pound. The bananas were only 49 cents a pound. The regular price was 89 cents a pound. He bought four pounds of apples. He bought four pounds of bananas. Then he walked over to the dairy section. Maybe the milk was on sale, too.",2.0926216742375097,6.7026698264267655,7,6-7,134,23,1.3059701492537314,9,106,90.43644711226476,1.8865671641791053,0.8502822842310209,7.578384360804672,9,2.1666666666666665,5.017001946787801,1st and 2nd grade,2.81570214146658,8.09419
+B1,paper_clip,10-12,Jim had two separate sheets of paper. He wanted to put the two sheets of paper together. He did not want to glue them together. He did not want to use glue. He did not want to staple them together. He did not want to use a staple. What did Jim want to use? He wanted to use a paper clip. He wanted to put the two sheets of paper together with a paper clip. He picked up a paper clip. It was a metal paper clip. It was a silver paper clip. Jim put the silver metal paper clip on both sheets of paper. Now the sheets of paper were together. They were not separate.,2.6846206896551728,7.03164865440522,8,8-12,116,15,1.293103448275862,7,89,89.58911494252875,1.972413793103449,0.5864080459770129,5.925762988505747,2,3.230769230769231,3.0933333333333337,2nd and 3rd grade,2.3000896551724135,6.5664299999999995
+B1,start_the_car,10-12,Bob pushed the button on the door handle. He pulled on the door handle. He opened the car door. He got into the car. He sat down. He sat down in the driver's seat. He sat down behind the steering wheel. Bob put the seat belt on. He buckled the seat belt. The seat belt went across his chest. The seat belt went across his lap. The seat belt kept him safe. He put his car key into the ignition. The ignition was next to the steering wheel. The ignition starts a car. Bob turned the car key in the ignition. The car started.,1.0920361990950234,5.900188976854958,6,6-7,104,17,1.2115384615384617,4,86,98.12943438914029,1.7250000000000014,0.6046889140271503,6.06551221719457,6,2.3125,3.9855203619909503,0th and 1st grade,2.5285113122171943,6.15511
+B2,an_informal_email_to_a_friend,12-14,"Hi Linda,
+How's it going?
+Sorry I haven't been in touch for such a long time but I've had exams so I've been studying every free minute. Anyway, I'd love to hear all your news and I'm hoping we can get together soon to catch up. We just moved to a bigger flat so maybe you can come and visit one weekend?
+How's the new job?  
+Looking forward to hearing from you!
+Helga
+Hi Helga,
+I've been meaning to write to you for ages now so don't worry! How did your exams go? When will you know your results? I'm sure you did brilliantly as always!
+As for me, I'll have been in the new job three months by the end of next week so I'm feeling more settled in. At first I felt like I had no idea what I was doing but now I realise it's normal to feel like that. There was a lot to learn – there still is actually – and I soon had to get used to the idea that I can't know everything. I used to work late a lot and at weekends but I'm slowly getting into a normal routine.
+Which means I'd love to come and visit! We really need a good catch up! I can't believe we haven't seen each other since Carl's wedding. How does next month sound?
+Anyway, I'd better get back to work.
+Congratulations on the new flat! Can't wait to see you!
+Love,
+Linda",3.992392566782811,7.447530270364452,9,8-12,246,21,1.272357723577236,12,194,87.30353658536588,3.5528455284552862,3.0012557603686645,6.464073286875726,20,5.0,5.498722415795587,3rd and 4th grade,3.329738675958188,14.36682
+B2,a_cv,12-14,"Maria Jones
+Digital Marketing Specialist
+Profile
+I have five years' experience in various digital marketing roles. I have a proven ability to create successful marketing campaigns in line with brand identity and values. I am a strong collaborator with outstanding communication skills, and have comprehensive experience of using my specialist knowledge and expertise in analytics for a wide variety of marketing initiatives.
+Employment History
+June 2017 – present
+Digital Marketing Specialist for Zinco, a global insurance start-up
+My role involves working to tight deadlines to design, create and launch marketing campaigns via social media.
+I have developed advanced knowledge of a range of social media platforms and digital marketing tools.
+I specialise in driving successful campaigns and excel in analysing their impact.
+I have experience launching digital billboards in places such as train stations and shopping centres.  
+Sept 2016 – June 2017
+Creative break from employment to travel and blog
+I travelled through 12 countries, met several professional bloggers and started my own travel blog.
+I built up a community of followers and started to monetise my blog through sponsored posts.
+May 2014 – Aug 2016
+Digital Marketing Assistant, Krunch Ltd
+Responsibility for overall social media strategy and regular posting on key channels.
+I played a key role in numerous campaigns to boost engagement with our brand.
+I also supported three product launches.
+Education
+2014 Diploma in Digital Marketing, Leeds Beckett University, UK
+2012 A-levels (Psychology, English, Art & Design), Leeds City College, UK
+Skills and Interests
+Competent WordPress developer
+Skilled in Adobe InDesign and Adobe Illustrator
+Advanced Spanish (C1)
+Intermediate German (B1)
+Photography
+Travel
+References
+Available on request",14.802264150943396,16.573440645216312,20,>18,265,13,1.9018867924528304,72,127,25.244992743105968,15.556226415094343,15.639073491564195,14.41950145137881,100,16.4,18.870827285921628,15th and 16th grade,7.89964586357039,22.549149999999997
+B2,a_short_story_extract,12-14,"Sam squinted against the sun at the distant dust trail raked up by the car on its way up to the Big House. The horses kicked and flicked their tails at flies, not caring about their owner's first visit in ten months. Sam waited. Mr Carter didn't come out here unless he had to, which was just fine by Sam. The more he kept out of his boss's way, the longer he'd have a job.
+Carter came by later while Sam was chopping wood. Carter lifted his hat as if he were waiting for an appointment with the town priest, and then removed it completely as if he were talking to his mother. He pulled out a pile of paper from his back pocket and held it out.
+'Don't pick up your mail often, do you?'
+Sam took it without a glance and dropped the envelopes onto the bench.
+'Never,' he replied and waited for Carter to say why he was here. The fact it was Carter's house was no explanation and they both knew it. Carter twisted his hat round and round, licking his lips and clearing his throat.
+'Nice work fixing those fences,' he said finally.
+'I'll be back to the beginning soon,' Sam said. It wasn't a complaint. A fence that took a year to repair meant another year's work to the man who did it well.
+'Don't you ever want to take a holiday?'
+'And go where?' A holiday meant being back out in the real world, a place even people like Carter travelled to escape from. Sam's escape was his reality and he wasn't going back.
+Mr Carter wiped the sweat from the back of his neck. The damp patches on his shirt drew together like shapes in an atlas. His skin was already turning ruddy in the June sun. Otherwise he had the indoor tan of a man that made money while other people did the work.
+'I've brought my son with me on this trip. He's had some trouble at school.' Mr Carter's eyes flicked up, blinked rapidly and then shifted back to the hat occupying his hands. 'Not much trouble out here for a young boy.' He attempted a laugh but it came out like a dog's bark.
+The two men looked towards the northern end of the property. It stretched as far as the eye could see. Even the fences were barely visible from where they stood. However bored and rebellious a teenage boy might get, it wasn't possible to escape on foot. Sam looked at the biggest of the horses, kicking at the ground with its heavy hooves. Could the boy ride? he wondered. There was a whole load of trouble a good rider could get into out here, miles away from anyone. But maybe there was even more trouble for someone who knew nothing about horses and wanted to get away from his father.",4.7770075229869065,7.534196372845214,10,8-12,485,37,1.2927835051546392,22,368,84.16078573418781,5.464742268041235,5.061435497353024,7.281878657007523,47,7.5,6.067985511284481,4th and 5th grade,3.751160769016439,30.15857
+B2,burning_man,12-14,"1. On the 21st June 1986 – the date of the summer solstice – Larry Harvey and Jerry
+James invited a few friends to Baker Beach in San Francisco to celebrate the longest
+day of the year. They marked the event by setting fire to a nine foot wooden model
+of a man and a dog. As they watched the flames consume the crudely made figures,
+none of them could have known how their small gathering would grow over the next
+two decades and develop into an annual seven day experience that has become
+known simply as Burning Man. In 2011, so many people wanted to be part of it that
+the number of participants had to be limited to 50,000.
+2. Even the organisers of the Burning Man project find it difficult to describe the
+experience. ‘Trying to explain what Burning Man is to someone who has never been
+to the event,’ says their official website, ‘is a bit like trying to explain what a particular
+colour looks like to someone who is blind.’ Part celebration, part act of rebellion,
+part community theatre, the week long event – now held in the Black Rock Desert
+of Nevada – attracts tens of thousands of people. They still come to watch the ritual
+destruction of a wooden figure (now more than forty feet high), but most of all they
+come to take part in a series of spontaneous ‘happenings’ and to create a temporary
+community of like-minded people.
+3. Larry Harvey, one of the founding members, is now executive director and has
+become the project’s official spokesperson. Famous for his grey cowboy hat, which
+he wears in memory of his father, he has become a familiar figure in the media,
+featuring on television news reports and in newspaper and magazine articles that
+appear as regularly as the Burning Man festival itself. The success and the scale of
+the Burning Man owe a great deal to Larry Harvey’s imagination and sense of vision.
+4. Burning Man is often called a phenomenon of the ‘Internet Generation’ and,
+like social networking sites such as Facebook and Twitter, the festival encourages
+the notions of community participation and self-expression. The event is governed
+by ten principles which emphasise the key beliefs of self-reliance and communal
+responsibility. People are encouraged to take part in the events and - by working with
+and helping each other - to discover something about themselves.
+5. Although the event takes place in a harsh desert environment, all participants –
+called ‘burners’ – are expected to be able to fend for themselves over the seven day
+period. The organisers do not provide meals or accommodation and there are no
+conventional shops to buy food at or hotels to sleep in. In fact, Burning Man has its
+own distinct economy based on the concept of gift-giving, and the use of money is
+forbidden.
+6. Burners are encouraged to express themselves artistically through painting,
+music, dance, performance and other forms of creativity. Each year Larry Harvey
+announces a theme for the event to provide them with inspiration – in the year 2006,
+for example, it was ‘Hope and Fear’. The theme influences almost everything about
+the event – from the clothes the people wear to the vehicles they travel around in.
+In keeping with the original idea many of the art exhibits and events revolve around
+fire, and specially constructed platforms are erected to ensure that all acts of burning
+are done safely.
+7. For the duration of the event the burners make their home in a self-built community
+called Black Rock City, which regular attendees abbreviate to the letters BRC. The
+city is always arranged in a distinctive semi-circular pattern, but its street names differ
+from year to year in keeping with the changing theme. Just as it seems to appear
+miraculously in the desert, the city disappears with equal suddenness. Following the
+principle of ‘Leave No Trace’, the participants dismantle the temporary structures
+that they built for shelter and take them away together with all their litter as they
+depart, leaving the desert in the same condition that they found it. Once Burning Man
+is over for the year, it is as if it never took place at all.",13.470738880918224,14.332717204346928,18,17-18,697,26,1.576757532281205,100,442,46.231505076702376,10.348350071736007,14.444609944510937,10.063363834013906,148,14.25,16.060236177022404,13th and 14th grade,6.889185906632822,49.54937
+B2,celebrating_a_win,12-14,"The Mexican national soccer team had just won a match against Croatia in the World Cup. This meant that Mexico advanced to the next round. Mexican soccer fans worldwide are known for loyalty to their team. After this win, however, some wonder if they took their loyalty too far.
+ 
+In Huntington Park, California, fans took to the street after the win. The afternoon crowd grew to almost 200 people. The fans waved flags, yelled, honked their cars, and jumped around the streets. The crowd was so big that they blocked traffic. This caused traffic jams in the area. While most of these fans were just overzealous, a handful were intoxicated. Instead of just celebrating, they began throwing bottles. Some of the fans even began rocking cars parked on the streets. Police were called to the scene. Not only did the local police department send in patrol cars, two police helicopters flew overhead and some police on horseback began to try to disperse the crowd. Someone threw a bottle at a police horse. Police urged shop owners to close their businesses. The police arrested five people. Thankfully no one was hurt.
+When Mexico played again the following week, police patrolled the streets in advance. This time they were going to be prepared if Mexico won again. Mexico was playing against the Netherlands. The Dutch team won 2-1. Mexican fans in Huntington Park still took to the streets despite the loss. This time the police were waiting in riot gear. The fans waved flags, chanted, honked horns, rocked cars and even lit firecrackers but no one threw bottles. The police didn't arrest anyone. They did have to close off three blocks to traffic, though. The police were probably secretly glad that Mexico didn't win. In four years, when the next World Cup happens, they'll worry about it again.",5.608178949740818,9.223106411051027,11,8-12,306,29,1.4477124183006536,33,209,73.64852941176471,8.68888888888889,6.780175794455712,8.855584471489745,41,5.888888888888889,7.880820374126663,8th and 9th grade,3.8163355871084064,21.8881
+B2,cnn_506,12-14,"Fernando Torreshighly-anticipated switch to English champions Chelsea was completed just before Monday transfer window closed in a deal that his former team Liverpool said had broken the British record.
+Chelsea's website reported that the Spain striker had signed a five-and-a-half-year contract, but did not disclose the fee -- which British media speculated would be about # 50 million -LRB- $80 million -RRB-.
+However, it was still well short of the world-record $130 million that Spain's Real Madrid paid English club Manchester United for Cristiano Ronaldo in 2009.
+In another deal confirmed late on Monday, Benfica said that Brazil defender David Luiz had joined Chelsea in a deal worth $34 million that saw Serbian midfielder Nemanja Matic sign for the Portuguese club.
+ I am very happy with my transfer to Chelsea and I am looking forward very much to helping my new team-mates this season and for many years to come, 2010 World Cup winner Torres told the London side's website.
+ Having played against Chelsea many times since coming to England, and in some very big games I will never forget, I know there are many great players here and I will work hard to win a place in the team. I hope I can score some important goals for the supporters to enjoy this season. 
+The 26-year-old scored 65 goals in 102 Premier League appearances for Liverpool after joining from Atletico Madrid in 2007 in a # 20 million deal, netting 81 in 142 games in all competitions.
+Torresmove followed the news that Liverpool had agreed a club-record fee for Newcastle's England striker Andy Carroll, who handed in a transfer request in the afternoon after the 18-time English champions made an improved bid.
+Just before the 2300 GMT deadline, Liverpool confirmed that the 22-year-old had signed a contract until 2016. The fee was not disclosed but it reportedly surpassed the previous British record of # 33 million -LRB- $53 million -RRB- that Manchester City paid for Brazilian Robinho in 2008.
+Will deadline-day spending buck the trend ?
+Chelsea's billionaire owner Roman Abramovich has been relatively quiet in transfer market for the past two seasons, but has this time backed coach Carlo Ancelotti with two marquee signings as his club languish fourth in the table -- 10 points behind leaders Manchester United.
+The London team also announced on Monday that the Chelsea FC plc made a loss of # 70.9 million -LRB- $113 million -RRB- for the year ended June 30, 2010.
+ The reduction in operating losses and increased sales in 2009-10 shows that we are moving in the right direction especially when viewed against the difficult macroeconomic environment, chief executive Ron Gourlay told Chelsea's website.
+ The club is in a strong position to meet the challenges of UEFA financial fair playinitiatives which will be relevant to the financial statements to be released in early 2013. 
+Latest transfer rumors on Twitter
+Carroll joined Uruguay World Cup striker Luis Suarez at Liverpool, with the 24-year-old completing his $36 million transfer from Dutch club Ajax earlier on Monday to become Kenny Dalglish's first major signing in his second stint as manager.
+The 24-year-old has scored 111 goals in 159 games for the Amsterdam side.
+Another high-profile striker on the move Monday was Tottenham's Robbie Keane, who has agreed a loan switch to London rivals West Ham until the end of this season.
+The move is likely to become permanent should the Hammers, currently bottom of the EPL, avoid relegation to the second flight.
+Blog: Who will be the best signing of the transfer window ?
+Manager Avram Grant said after the 3-2 FA Cup win Nottingham Forest that he hoped the Republic of Ireland international would provide the spark to get the club away from the drop zone.
+ He is not just a good player, he is a good character that we need in the next 14 games, the Israeli told the UK Press Association.
+Tottenham, who face AC Milan in the last 16 of the Champions League next month, were linked with a bid for Atletico Madrid's Sergio Aguero.
+But the Argentina striker has signed a new two-and-a-half-year contract extension with the Spanish side until 2014 and told the La Liga outfit's official website: I 'm staying here because I want to. 
+Spurs manager Harry Redknapp would not confirm his interest in Aguero or other reported targets in Spain as he arrived for Monday's training session, but told Sky Sports that former England defender Jonathan Woodgate would not be leaving on loan.
+Woodgate, who has returned to fitness after long-term injury, is needed as defensive cover after captain Michael Dawson was banned for three matches after being sent off in the 4-0 FA Cup defeat to Fulham, while French fellow center-back Younes Kaboul needs an operation, said Redknapp.
+United States international midfielder Michael Bradley has joined English club Aston Villa from German side Borussia Monchengladbach on loan until the end of this season.
+Villa boss Gerard Houllier told reporters: We 've got to prepare for the future and Michael is 23 and a very hard-working midfielder who can score goals. 
+Villa allowed Irish midfielder Stephen Ireland to join Newcastle on loan for the rest of this season, almost six months after he arrived from Manchester City.
+Houllier also said that the club had received no bids for England winger Ashley Young.
+Turkey international striker Tuncay Sanli has moved from English Premier League side Stoke to Wolfsburg in a $7 million deal, the German club announced on their official website.
+The Bundesliga side also announced the arrival of attacking midfielders Koo Ja-Cheoul of South Korea and Venezuelan Yohandry Orozco, plus Bayer Leverkusen's Germany international striker Patrick Helmes and Czech midfielder Jan Polak.
+The 21-year-old Koo -- who scored five goals in six matches at the recent Asian Cup -- signed a three-and-a-half-year deal from Korean side Jeju United, while 19-year-old Orozco signed from Venezuela's Zulia FC until 2015.
+Stoke also allowed former Chelsea and Barcelona striker Eidur Gudjohnsen to join English rivals Fulham on loan, with the Iceland international having failed to win a regular place since his pre-season move from Monaco.
+German rivals Schalke signed Iran international midfielder Ali Karimi, who worked with coach Felix Magath when they were both at Bayern Munich, plus clubless Greece striker Angelos Charisteas -- who scored the winning goal in the final of Euro 2004.
+Serie A leaders AC Milan confirmed on their website the signing of 34-year-old Italy defender Nicola Legrottaglie from league rivals Juventus, on a contract until June this year.
+Italian champions Inter Milan have signed Japan leftback Yuto Nagamoto on loan from Cesena on loan for the rest of this season, with 20-year-old Italy international defender Davide Santon moving in the opposite direction.
+The 24-year-old Nagamoto set up the only goal of the Asian Cup final against Australia on Saturday which sealed a record fourth title for the Blue Samurai.
+Inter coach Leonardo has allowed Colombian defender Nelson Rivas to join Ukrainian side Dnipro Dnipropetrovsk on loan, with a view to a permanent deal.
+Brazil-born Italy international striker Amauri has returned to Parma on loan from Italian rivals Juventus, who have replaced him with Cagliari's Alessandro Matri.
+English club Birmingham City signed Nigeria international Obafemi Martins in a six-month loan deal from Russian side Rubin Kazan, after the former Newcastle striker was granted a work permit.
+Portugal international striker Liedson has returned to the country of his birth after joining Brazilian club Corinthians from Sporting Lisbon in a $2.9 million deal.
+The 32-year-old qualified for Portuguese nationality in 2009 and played for his adopted nation at last year's World Cup finals in South Africa.
+Ecuador midfielder Jefferson Montero has swapped Spanish clubs after joining struggling Levante from Champions League hopefuls Villarreal on loan.
+Dutch club Feyenoord have signed Denmark international striker Soren Larsen from French side Toulouse on loan for the rest of this season, along with Arsenal's new 18-year-old Japanese forward Ryo Miyaichi and Borussia Monchengladbach midfielder Marcel Meeuwis.",14.024672076689445,14.283593685282176,19,>18,1317,48,1.6028853454821563,183,766,43.381837272209594,12.61002277904328,16.71832831325301,11.987202581624905,288,16.75,16.07750569476082,16th and 17th grade,7.437224326119969,101.18472
+B2,doctor,12-14,"Doctor Klein: Good morning, Cecilia, how are you feeling today?
+Cecilia: I do not feel very well, Doctor Klein. I hope that you can treat my illness.
+Doctor Klein: I’m sorry that you feel very sick. Tell me some of your symptoms so that I can give you a proper diagnosis.
+Cecilia: I have not felt well since yesterday afternoon. The symptoms began with a headache and a gradual sore throat. I drank tea with lemon and honey, and I went to bed early. However, I am extremely exhausted, and I don’t feel any better today.
+Doctor Klein: I have seen these symptoms recently in some of my other patients. I’ll check your temperature and examine your throat in order to give you a proper diagnosis.
+Cecilia: Thank you, Doctor.
+Doctor Klein: Open up and say “Ahhhhhh...”
+Cecilia: “Ahhhhhh...”
+Doctor Klein: Oh, my! I can already see that your throat is very red. Your temperature of 100 degrees indicates that you are running a mild fever. I am afraid that you might have the flu.
+Cecilia: What is the best way to cure my symptoms?
+Doctor Klein: You will need plenty of rest, and you should drink fluids frequently in order to stay hydrated. You’ve also just started to show symptoms, so I can prescribe you a medication that can reduce fever and shorten the duration of your illness.
+Cecilia: Should I stay home from work as well?
+Doctor Klein: Yes, you should remain in bed until the fever breaks. You should also wait until 24 hours after the fever has broken before you return to work. You do not want to risk getting your coworkers sick as well.
+Cecilia: I suppose I will just take it easy and relax for a couple of days. Thank you, doctor, for all of your help!
+Doctor Klein: No problem! Try your best to rest for a couple of days. I hope you feel better soon!",5.558746663819793,8.841846274778883,11,8-12,323,29,1.4241486068111455,29,222,75.0470278637771,6.089164086687305,5.093361802071101,7.366495558876909,30,5.0,7.5511476459912465,4th and 5th grade,3.6342160777196537,21.10953
+B2,instant_messages,12-14,"You there, Beatriz?
+Hang on, Andrew.
+OK. What's up?
+It's Caroline's birthday tomorrow.
+Oh yeah, that's right!
+You thought about what to get her?           
+You mean a present? Weren't you buying one from both of us?
+I'm sorry! It totally slipped my mind!           
+surprise
+And I'm working 'til late.
+So …
+Could you pick up a gift today?
+I guess. What sort of thing were you thinking of?
+Dunno. Got any ideas?
+One sec. Phone.
+OK, I'm back.
+Just had an idea for a gift.
+Go on.
+New headphones?
+Nah. Jeremy said he was getting her headphones.
+OK. What then?
+Have you seen those gift certificates for a spa? Maybe one of those?
+She'd love that!
+I'll pick it up today then.
+Thanks a million. Appreciate it.
+No worries. See you tomorrow then?
+Yep.
+What time was it again? 4?
+4.30. I can pick you up at your house if you like.
+yesyesyesyes
+CU then.
+Bye for now.",2.0413656050955424,6.556747764867329,7,6-7,157,25,1.286624203821656,9,123,91.61239235668792,2.2802547770700627,1.8616455696202507,7.166331949044586,16,2.7333333333333334,4.040662420382166,1st and 2nd grade,2.765244331210191,9.93044
+B2,leaving_for_work,12-14,"At precisely 6 a.m., the sound of the alarm clock pierces the air. Sandy drags herself out of bed and begins her morning routine with a quick shower. After her shower, she prepares a simple breakfast. Grabbing a clean bowl from the dishwasher, she empties into it a packet of instant oatmeal. She pours in a cup of milk, stirs and heats the mixture in the microwave. While waiting for her oatmeal to cook, she dresses for the day, mindful of the weather.
+ 
+Fully dressed now, she removes her oatmeal from the microwave, which has now cooled just enough to suit her taste. It is her favorite flavor, apple cinnamon. As she savors each bite, she is reminded of her mother, who always made sure Sandy ate a warm breakfast before leaving the house in the morning.
+Checking the time on her phone, she hurriedly swallows the last few mouthful of oatmeal before heading out. As she steps into the street, a gust of wind blows back her hair. She covers her head with the hood of her coat, tightens the scarf around her neck, and braces for her walk to the train station.
+After settling into her seat on the train, memories of her mother stir again. She takes out her phone and texts: ""Hey mom, thanks for the scarf you knit me. It came in real handy this morning. Love always.""",5.788945815450646,7.645422480735848,11,8-12,233,16,1.330472103004292,10,166,79.49612258583693,6.985407725321885,6.773353004291845,7.340602575107296,29,5.75,7.370064377682404,6th and 7th grade,3.999608637339055,15.20415
+B2,millennials_in_the_workplace,12-14,"Millennials in the workplace
+Background
+Millennials (those born between the early 1980s and the early 1990s) make up a huge part of our workforce but they seem to lack loyalty to the companies and the leaders they work for. Multinational companies are noticing larger turnover rates of millennials as employee retention rates fall. This report looks at the findings of two large-scale surveys on the mindset of the millennial generation and explores how organisations can strive to address these needs, increase employee engagement and encourage retention.  
+Research
+In a global survey conducted by PricewaterhouseCoopers (PwC), more than 40,000 millennial (born between 1983 and 1993) and non-millennial responses were collected on the topics of workplace culture, communication and working styles, pay structure, career development, work–life balance, etc.
+In a separate global survey conducted by Deloitte, more than 10,000 millennials participated in a study about their perceptions of the threats and opportunities in the complex world of work.
+Key findings
+Millennials are as committed to their work as their more senior colleagues.
+Millennials value interesting work and a good work–life balance. They do not believe that excessive work demands are worth sacrifices in their personal lives.
+Millennials want flexibility in their working hours and are willing to give up pay increases and promotions for a flexible working schedule. They believe that success should be measured by productivity and not by the number of hours they are seen in an office.
+Millennials want to feel supported and appreciated by their company and their superiors.
+Millennials want more opportunities to develop their skills. These include technological skills, teamwork and interpersonal skills.
+Millennials believe that businesses and business leaders should contribute to the improvement of society and they are more likely to be loyal to a company with strong ethics.
+Recommendations
+Organisations and managers wanting to retain millennials should consider:
+monitoring their workload and satisfaction levels with their work–life balance
+creating a flexible work culture where employees have more control over their working hours and their work location
+providing meaningful work and interesting opportunities
+offering help and support in continuing professional development
+changing the organisation's goals from being mainly about profit-making to motives that address social concerns and solve wider societal problems.",15.815760217983655,16.647925096878797,21,>18,367,15,1.8528610354223432,84,200,25.249289736603117,16.17820163487738,18.267638510445053,11.733970372388738,106,17.75,18.397020890099903,17th and 18th grade,7.546020708446866,31.4366
+B2,paintballing_in_the_streets,12-14,"Scott received a paintball gun and some paintballs from his mom for his 16th birthday. When his mom gave him the present, she told him that she would take him to a paintball range with some of his friends. The range was in an open field and the company that owned the range provided safety equipment like padding and facemasks. Getting hit by a paintball hurt and could cause serious injury. The paintball range was 20 miles away, and Scott had to wait till the weekend to try out his new equipment. He didn't want to wait that long. He wanted to play with his new toy now.
+ 
+When his mom was taking a nap, he texted a friend who lived down the block to meet him in front of his house. ""I want to show you what I got for my birthday,"" Scott told his friend. He loaded up the paintball gun with the colored balls filled with brightly colored paint. He started shooting it at the trashcans that were on the curb. Just then a police patrol car was driving down the street. Scott missed the trashcans and ended up shooting a paintball right at the police car. The police thought they were under attack. Scott knew he had done something wrong and ran inside the house with his friend. Soon a police helicopter was flying overhead, and Scott could hear police sirens approaching his house.
+The sounds of the helicopter and the sirens woke up Scott's mother. She looked out her window and saw a spotlight right on her house, and three police cars arrived. ""What is going on?"" she wondered aloud. She went to the living room and turned on the local news to see if there was any information about what was happening in her neighborhood.",5.210631229235883,7.62386473244151,10,8-12,301,21,1.2890365448504983,13,230,83.23417497231453,7.030564784053158,6.470055370985605,7.862150941306756,29,8.333333333333334,7.062236987818384,7th and 8th grade,3.9742857142857138,19.46425
+B2,painting_a_mural,12-14,"Anna woke up late one morning. She was supposed to meet up with a group of friends that morning at 8 o'clock. She woke up at 8:15 instead. Anna rushed to get ready. She quickly showered, put on her clothes. Then, she grabbed her tool box and headed out on her bike.
+ 
+Anna and her friends were asked to paint two murals for the city's library. One of the murals was to be located on the outside, and the other on the inside. The owner of the library was the one who requested these murals. The reason was because he was a fan of Anna's art, and was planning to remodel the library.
+Both murals were going to be painted with a similar theme. They were both going to be paintings aimed to inspire people to read. Anna already had her ideas for both murals planned out. It was going to be colorful. Her friends were going be there to help paint the large areas of the mural.
+Once Anna arrived, she noticed her friends waiting outside the library. Anna apologized for being late. She pulled out her ideas to show to her friends. Her friends were impressed and excited to begin painting. They first started by outlining the images of the ideas onto both walls. Next, they mixed their colors and began to paint. Painting the mural was a lot faster to do when you have the help of your friends. They finished both murals within two days.
+The new murals attracted the attention of local visitors to the library. The owner of the library was impressed and happy with the new look of his library. He awarded Anna and her friends with recognition and paid them for their labor. Anna was pleased.",5.152585034013608,8.735056554316923,10,8-12,294,27,1.3979591836734695,26,205,77.51543083900228,6.18095238095238,4.664750566893424,8.31206507936508,37,4.4,6.5324263038548755,4th and 5th grade,3.953925170068027,18.93541
+B2,the_sharing_economy,12-14,"If we look around us at the things we have purchased at some point in our lives, we would no doubt notice that not everything we own is being put to good use: the thick woollen coat which we thought looked trendy despite the fact that we live in a tropical country, the smartphone that got put away when we bought ourselves the newest model, the car that only gets used at the weekends, or even the guest room in our house that somehow got turned into a storeroom.
+Those underutilised items may seem useless to some, but could be an asset to others. With the advent of the internet, online communities have figured out a way to generate profit from the sharing of those underused assets. Using websites and social media groups that facilitate the buying and selling of second-hand goods, it is now easier than ever for peer-to-peer sharing activities to take place. And this is known as the sharing economy.
+These democratised online platforms are providing a chance for people to make a quick buck or two. To give an example, busy parents previously might not have bothered with setting up a stall at the local market or car boot sale to sell their children's old equipment, but with online marketplaces, parents are now able to sell on those hardly worn baby clothes that their children have outgrown and the expensive pushchairs and baby equipment they have invested in, so as to put some cash back into their pockets.
+Businesses have also caught on to the profitability of the sharing economy and are seeking to gain from making use of those underutilised resources. A business model that has rapidly risen in popularity sees companies providing an online platform that puts customers in contact with those who can provide a particular product or service. Companies like Airbnb act as a middleman for people to cash in on their unused rooms and houses and let them out as lucrative accommodation. Another example is Uber, which encourages people to use their own personal cars as taxis to make some extra cash in their free time.
+This move towards a sharing economy is not without criticisms. Unlike businesses, unregulated individuals do not have to follow certain regulations and this can lead to poorer and inconsistent quality of goods and services and a higher risk of fraud. Nevertheless, in the consumerist society we live in today, the increased opportunities to sell on our unwanted and underused goods can lead to a lesser impact on our environment.",14.645013477088952,14.656154480655498,20,>18,424,14,1.5613207547169812,57,273,44.00726415094343,10.663207547169812,16.37417789757412,9.86822331536388,95,27.0,17.114285714285714,14th and 15th grade,7.38098382749326,29.967599999999997
+C1,an_email_request,14-16,"Dear Ms Leitman,
+I am writing to request your help following a change in my circumstances.
+As you know, I am enrolled on the Basic Spanish course at your college, which starts in September. However, due to unforeseen family events, I have had to leave the country for a while to assist my parents in Hong Kong.
+At present it is not clear when I will be able to return and unfortunately I will not be able to start the course as planned.
+I would like to request a refund for the course fees already paid. I apologise for the short notice and for any inconvenience caused. In the event that a refund is not possible, I would be grateful if you could postpone my enrolment until my return.
+Thank you in advance for your help and I hope to be able to update you on the situation soon.
+Yours sincerely,
+Honor Singh",7.698823529411765,10.25414643259724,13,13-14,153,9,1.411764705882353,14,110,70.14470588235295,6.79607843137255,7.295294117647057,7.678981045751634,21,8.833333333333334,8.891503267973857,6th and 7th grade,4.5288104575163395,9.65133
+C1,an_email_to_a_friend,14-16,"Hi Rebecca,
+How ARE you?! It's been ages!! I thought I'd drop you a line seeing as I'm stuck in the airport with nothing to do but make use of the free Wi-Fi.
+Not that writing to you isn't top of my list of things to do, of course ;) but I've been totally snowed under at work, plus all the family stuff that's been going on ... Anyway, I'm just about to go on a much-needed holiday so I really can't complain!
+Anyhoo … what have you been up to? I saw Carol a couple of months ago – don't know if you heard what happened with her job but it made me feel grateful I only slightly hate mine – and she was saying your book is going to be published?! GREAT news!!! Send me a link and I'll definitely buy it and leave a five-star review :)
+As for me, same old, same old re: job. Maggie and I broke up a while ago, as you know, but we're getting on much better now and it's working out far better for the kids. No-one new on the horizon but I'm off to Canada travelling for a month (if this plane ever leaves!) so who knows?!
+Actually, I'll be flying over your house in a few hours. I'll wave! Let's make a plan to see each other when I get back, OK?
+Hope life's treating you well!
+Lots of love,
+Sarah",5.508708860759494,8.021203637495837,11,8-12,237,15,1.2658227848101269,11,187,83.7093924050633,4.033755274261601,4.94172839506173,7.218407848101266,26,7.0,7.670210970464137,6th and 7th grade,4.0102599156118135,13.99957
+C1,cnn_37,14-16,"Sen. Tim Kaine said Wednesday there's no legal authority for the current U.S. mission against ISIS in Iraq and Syria.
+ We have been engaged in a war -- that is not about imminent defense of the United States -- without legal authority, the Virginia Democrat said at the Wilson Center on Wednesday, ahead of a panel discussion on the legal authority for military intervention, moderated by CNN's Jim Sciutto.
+The mission is not covered by either the wording or intent of the 2001 and 2002 authorizations for use of military force as the White House argues, Kaine said, adding that such an argument is ridiculous and inconsistent with President Barack Obama's previously stated interpretation of the AUMF.
+Kaine, a member of the Senate Foreign Relations Committee, has proposed a new, limited authorization, specifically targeted to the current mission against ISIS. We should deal with it right away, he said, stressing that it could be accomplished in the lame-duck session in Congress.
+Rand Paul on ISIS response: This war is now illegal '
+He's also calling for changes to the War Powers Resolution that will result in a better process for war authorization.
+In a statement last week, Kaine said he was encouraged by Obama's recent willingness to work with Congress on a new authorization, but also troubled by suggestions today that Congress should wait until the new Congressional session in 2015 to take this vote. 
+ We have already asked too many U.S. service members to risk their lives without a political consensus behind this mission, he added.
+What to expect from the lame duck Congress
+The current AUMF was passed in 2001, just days after the 9/11 attacks. Though the language of the authorization only covers military action against those who planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in recent years it has been used to cover action against any group or individual the administration considers associated with al Qaeda.
+A second authorization for use of military force against Iraq was passed in 2002, permitting the president to defend the national security of the United States against the continuing threat posed by Iraq and enforce all relevant United Nations Security Council resolutions regarding Iraq.",15.948716577540107,16.001076179640435,21,>18,374,13,1.7219251336898396,66,212,31.959364459070372,12.512299465240645,17.229230769230774,11.6074378033731,94,16.5,18.031756478815304,15th and 16th grade,7.723803784450842,28.54267
+C1,cnn_614,14-16,"This week's Bank of the West Classic in Stanford, California, reaches a notable milestone as the tournament celebrates its 40th year -- the oldest WTA Tour event on the circuit.
+The tournament has been hosted in the grounds of Stanford University for the past 14 years, after various different venues in the North California area, and its roll-call of former winners reads like a who's - who of women's tennis.
+Martina Navratilova holds the record for most singles titles, with five between 1979 and 1993.
+Reigning U.S. Open champion Kim Clijsters has four wins, with American legends Chris Evert and Lindsay Davenport and Billie Jean King with three victories each.
+And, in recognition of reaching the landmark, tournament organizers have arranged a special presentation before the semifinals on Saturday July 31.
+Four former champions, each representing a different decade, will be paraded; inuaugural champion King -LRB- 1970s -RRB-, two-time champion Andrea Jaeger -LRB- 1980s -RRB-, Davenport -LRB- 1990s -RRB- and defending champion Marion Bartoli -LRB- 2000s -RRB-.
+It was fitting that King won the initial tournament, as she had fought so hard for the introduction of the WTA Tour.
+And, the 1971 tournament at the San Francisco Civic Auditorium, in which King beat Rosie Casals in the final of an event then known as the British Motor Cars Invitational, was to become the first of 24 events that year that formed the first-ever WTA Tour calendar.
+The tournament became the Virginia Slims of California in 1974 and its venue moved around the San Francisco area before settling at the Oakland Coliseum between 1979 and 1996.
+The tournament has continued to grow and grow since moving to Standford, with Stanford Director of Tennis Dick Gould telling the local Mercury News website: It's been a great marriage and just about every great player from the last 14 years has played here.
+ It's been a really great thing for not only Stanford, but for the Northern California community in general. 
+Australian Samantha Stosur is the top seed for the 2010 version, although injury means that the Williams sisters -- who both hail from the area -- will not be in action.",15.048333333333336,16.11434528070225,20,>18,354,12,1.6214689265536724,62,219,39.716228813559326,11.754237288135592,17.119972067039107,11.924191525423728,85,16.25,17.56271186440678,15th and 16th grade,7.50075988700565,26.57421
+C1,cnn_641,14-16,"I took all my Ted Cruz posters down before you came over, declares Carrie Brownstein, leaning against the arched doorframe of her Portland dining room.
+ELLE: 21 imaginary tv couples we wish were real
+Brownstein's delivery is thoroughly deadpan, but anyone even mildly familiar with the 39-year-old would know the claim could n't be dripping with more sarcasm. After all, along with co-star Fred Armisen, Brownstein -- founding member of riot grrrl cult band Sleater-Kinney and, more recently, Wild Flag -- has made a second career out of portraying a constituent of the kale-eating, craft-beer-drinking, lumberjack-shirt-wearing, jewelry-making crowd on Portlandia. 
+ELLE: What's behind Portlandia's comedy chemistry ?
+While the locally filmed show, which returned for a fourth season on IFC in February, has made the Washington state native something of a hometown hero in her adopted city, she's quick to point out that Portland was merely a convenient backdrop for the series. Portlandia is n't as much about a place as it is about a state of mind, says Brownstein. It's about people who like to feel special, who like to believe that this certain thing has been tailor-made just for them, of which I 'm definitely guilty too, at times. 
+ELLE: 9 TV actresses who deserve a raise
+Given the show's penchant for incredibly nuanced observations of hipster culture -- municipal recycling guidelines are enough fodder for an entire sketch -- it should come as no surprise that Brownstein was equally committed to detail when it came to decorating the 1912 bungalow she bought in the trendy Grant Park neighborhood 10 years ago after touring extensively.
+ELLE: A different way of thinking about lena dunham's nudity in Girls '
+Brownstein filled the place with sentimental, one-of-a-kind finds: A taxidermied weasel once owned by Amy Sedaris sits on the mantel; '50s - era coastal landscapes by various local artists fill the walls; and a record collectionâ $ which, in Brownstein's case, is several thousand vinyls strong and meticulously alphabetized by artistâ $ testifies that yes, this is a hipster home.
+ELLE: 21 vintage photos of hollywood couples on the red carpet
+All in all, the spread is not unlike the one Carrie's Portlandia alter ego inhabits. Hard-core fans may recognize Brownstein's real-life mutts from the now infamous episode about dog parks. Armisen, whom she met in 2003 at a Saturday Night Live after-party, is clearly her partner in crime in real life, too: The comedian, who rents a house nearby during filming, texts Brownstein in the middle of her ELLE shoot to let her know that Lou Reed has died. -LRB- A fellow musician, Armisen is also a frequent guest in Brownstein's basement -- a soundproof practice space tricked out with a loungy Chesterfield sofa and no fewer than five guitars. -RRB-
+ELLE: 11 items every fashionable woman should have by 30
+Of course, inhabiting the blurred line between reality and fiction can have its downsides. A particular source of consternation for Brownstein is one of the show's most famous skits -- Put a Bird on It -- which depicts an artisan couple with a compulsive knack for putting a cutesy bird on virtually everything they make.
+ Now I go into stores and see things I want to buy with birds on it, and I ca n't, because I 'm too self-conscious, Brownstein says. The other day, I was in a store and saw a cute dress with birds on it and I was like, No, I just ca n't.
+Reprinted with permission of Hearst Communications, Inc..",14.845376811594203,14.314028922438442,20,>18,575,18,1.5234782608695652,69,374,45.52512801932369,11.294956521739136,17.827435169411316,11.372179227053142,134,20.666666666666668,17.090821256038648,10th and 11th grade,7.571688405797101,42.630379999999995
+C1,cnn_655,14-16,"A bipartisan group of women senators waded into the ongoing drama over the NFL, Ray Rice and domestic violence.
+They sent a letter to NFL Commissioner Roger Goodell calling on the football league to institute a real zero-tolerance policy in such cases.
+The 16 signatories wrote that they were shocked and disgusted by the in-elevator video that surfaced of Ray Rice punching his then-fianceé in an elevator, and they pointed to the allegation that the NFL had possession of the video, which became public Monday, when it handed down its original lenient two-game suspension.
+ The NFL's current policy sends a terrible message to players, fans and all Americans that even after committing a horrific act of violence, you can quickly be back on the field, the senators wrote.
+The NFL recently changed its domestic violence punishment to a minimum suspension of six games for a first offense and a lifetime time ban for a second offense.
+ If you violently assault a woman, you should n't get a second chance to play football in the NFL, the senators wrote.
+Sen. Richard Blumenthal, D-Connecticut, recently told CNN that he would not rule out congressional action to force the NFL's hand on domestic abuse.
+Key events in the Ray Rice episode
+Ex-FBI director to investigate Ray Rice case",14.978691860465116,17.410965686947208,20,>18,215,8,1.7023255813953488,50,128,35.54013081395351,11.100465116279077,15.360337209302322,11.065174418604652,54,18.75,19.866279069767444,14th and 15th grade,7.388375,15.65954
+C1,cnn_659,14-16,"Dozens of Roman Catholic bishops in South America say human trafficking has seen alarming growth in the region.
+The 60 bishops from Argentina, Brazil, Paraguay and Uruguay issued a statement after a meeting in Argentina last week, calling the practice a shameful and outrageous reality and pledging to do more to fight it.
+ We warn of the existence of organized mafias that use smaller networks that are present in nearly all of our cities and towns, the statement said.
+Learn more at The CNN Freedom Project
+Citing reports from global nonprofit groups, the bishops noted that child sex trafficking rings were also operating in the area.
+The bishops pledged to raise awareness of the problem, push for legal reforms and assist victims -- noting that within the church there had been an absence of proposals dedicated to attracting young people -LRB- to the church -RRB-, and the absence of a more decisive and broad response to the problem -LRB- of human trafficking -RRB-. 
+Such an approach is not surprising, said Sergio Rubin, a journalist who has written extensively about the Catholic Church in Argentina.
+ The church is assuming its role, and they believe that they must work a lot more in the formation of religious values, Rubin said.
+Mario Ganora, a lawyer who works with La Alameda, an Argentinian nonprofit that helps victims of human trafficking, said the increase in human trafficking was connected to an increase in drug consumption.
+ How ?... The women who are used for sex trafficking are also used for the delivery of drugs, he said.
+According to official data from Argentina's Ministry of Justice and Human Rights, 176 people were rescued from human trafficking networks in Argentina in April, a higher number than the entire previous trimester.",15.047586206896558,15.774802946060372,20,>18,290,10,1.637931034482759,49,168,38.83103448275864,11.699310344827584,16.749041095890412,11.772037931034484,78,16.25,18.220689655172414,15th and 16th grade,7.982482758620689,21.564919999999997
+C1,cultural_behaviour_in_business,14-16,"Much of today's business is conducted across international borders, and while the majority of the global business community might share the use of English as a common language, the nuances and expectations of business communication might differ greatly from culture to culture. A lack of understanding of the cultural norms and practices of our business acquaintances can result in unfair judgements, misunderstandings and breakdowns in communication. Here are three basic areas of differences in the business etiquette around the world that could help stand you in good stead when you next find yourself working with someone from a different culture.
+Addressing someone
+When discussing this topic in a training course, a German trainee and a British trainee got into a hot debate about whether it was appropriate for someone with a doctorate to use the corresponding title on their business card. The British trainee maintained that anyone who wasn't a medical doctor expecting to be addressed as 'Dr' was disgustingly pompous and full of themselves. The German trainee, however, argued that the hard work and years of education put into earning that PhD should give them full rights to expect to be addressed as 'Dr'.
+This stark difference in opinion over something that could be conceived as minor and thus easily overlooked goes to show that we often attach meaning to even the most mundane practices. When things that we are used to are done differently, it could spark the strongest reactions in us. While many Continental Europeans and Latin Americans prefer to be addressed with a title, for example Mr or Ms and their surname when meeting someone in a business context for the first time, Americans, and increasingly the British, now tend to prefer using their first names. The best thing to do is to listen and observe how your conversation partner addresses you and, if you are still unsure, do not be afraid to ask them how they would like to be addressed.
+Smiling
+A famous Russian proverb states that 'a smile without reason is a sign of idiocy' and a so-called 'smile of respect' is seen as insincere and often regarded with suspicion in Russia. Yet in countries like the United States, Australia and Britain, smiling is often interpreted as a sign of openness, friendship and respect, and is frequently used to break the ice.
+In a piece of research done on smiles across cultures, the researchers found that smiling individuals were considered more intelligent than non-smiling people in countries such as Germany, Switzerland, China and Malaysia. However, in countries like Russia, Japan, South Korea and Iran, pictures of smiling faces were rated as less intelligent than the non-smiling ones. Meanwhile, in countries like India, Argentina and the Maldives, smiling was associated with dishonesty.
+Eye contact
+An American or British person might be looking their client in the eye to show that they are paying full attention to what is being said, but if that client is from Japan or Korea, they might find the direct eye contact awkward or even disrespectful. In parts of South America and Africa, prolonged eye contact could also be seen as challenging authority. In the Middle East, eye contact across genders is considered inappropriate, although eye contact within a gender could signify honesty and truthfulness.
+Having an increased awareness of the possible differences in expectations and behaviour can help us avoid cases of miscommunication, but it is vital that we also remember that cultural stereotypes can be detrimental to building good business relationships. Although national cultures could play a part in shaping the way we behave and think, we are also largely influenced by the region we come from, the communities we associate with, our age and gender, our corporate culture and our individual experiences of the world. The knowledge of the potential differences should therefore be something we keep at the back of our minds, rather than something that we use to pigeonhole the individuals of an entire nation.",16.3695670995671,15.903189008614271,21,>18,660,21,1.6696969696969697,105,382,33.67863636363637,12.425151515151512,18.4836948051948,10.50653896103896,162,22.333333333333332,18.26839826839827,15th and 16th grade,7.928610389610389,49.81379
+C1,horror_film_cliches,14-16,"Five horror film clichés
+Since almost the beginning of cinema, we have had scary films. Of all the genres that exist, horror is perhaps one of the most conventional. Many horror films rely on specific plot devices, also called tropes, to make their audience frightened. When a trope is used too much, it can become a cliché. But when used well, it can really make us jump out of our skin. Here are some of the most used, and perhaps abused, clichés in horror films.
+1
+No matter what kind of house it is, the basement is a scary place in horror films. That's usually where something is hiding or where the evil psychopath has hidden their tools. Basements are always dark and often damp. You can only reach them by a narrow staircase. And basements are always creepy, even when there isn't anything down there.
+2
+In older horror films, when protagonists were in desperation, it was difficult or impossible for them to call for help or call the police. Mobile phones have made that situation a bit less believable now. What's the solution to maintain suspense? No phone coverage! If you're a hero in a horror film, it's almost certain that at a key moment, just when you absolutely need to call for help, you will not have any coverage at all. Or your phone battery will die just as you are making the call. Or both.
+3
+Horror films love uninhabited places. This could be an abandoned hospital, a scary empty house or a ghost town. There's something about lonely, empty places. What was it like when people lived there? Why did they leave? Maybe it's also that they are so quiet, which can be very scary too. Of course, abandoned places are also handy for horror film directors in that it's more believable that you will have no phone coverage there either (see above).
+4
+The hero has been driving for hours. It's night-time and it's beginning to rain. Suddenly he sees a person on the side of the road. Maybe the company will keep him awake? In horror films, giving anybody a ride is asking for trouble. The hero always does it, and it always ends badly.
+5
+This horror film cliché was especially popular with horror films of the late 20th century. It starts with a group of teenagers all enjoying themselves, and it ends with everyone dead except one girl. At the beginning the girl is usually innocent, shy and not particularly strong. By the end, she has become the toughest and most resourceful person in the world. The last girl almost always wins in the end.",6.313284427284426,9.3871,11,8-12,444,35,1.436936936936937,42,307,72.39413513513514,7.274324324324326,6.320019305019304,7.99983305019305,53,7.0,8.047258687258688,6th and 7th grade,4.041649678249678,29.644419999999997
+C1,over_the_counter,14-16,"One of Barb's favorite activities since moving to the United States was watching television. She especially loved watching the commercials. ""You really can buy anything here in America!"" she told her friends. One afternoon she was watching television and saw a commercial that really grabbed her attention. It showed a cartoon woman tossing and turning. The woman in the commercial was unable to sleep because she was busy thinking about the day that had passed and worrying about the day ahead. Barb wasn't quite sure what the commercial was advertising. Was it a bed? Was it a pillow? Was it just a public service announcement urging people to sleep more? Suddenly a voice on the television began speaking very quickly, listing side effects of the sleeping pill the commercial was advertising. One of the side effects was insomnia. Barb thought that seemed like an odd side effect for a sleeping pill.
+ 
+The next day Barb happened to be in the local neighborhood pharmacy picking up a few things. She remembered the commercial she had seen the night before for the sleeping pills. She walked up and down the aisles looking for them. Since she saw it advertised on television, she thought she might try them. Sometimes she had a hard time sleeping. When she couldn't find the pills on her own, she walked over to the pharmacy counter and asked the pharmacist where she could find the pills.
+""Do you have a prescription?"" the pharmacist asked. Barn explained that she didn't, but she saw the pills advertised on television and thought she would try them. ""Those are not available over the counter,"" the pharmacist explained. Barb thought it was dumb for there to be a commercial for something she couldn't just go get at the store. She walked out of the pharmacy without buying anything.",6.356147540983606,10.21488967967688,11,8-12,305,26,1.4721311475409835,40,212,70.38597414880205,9.041311475409838,7.305909205548552,8.256444514501892,34,5.7,8.889029003783103,8th and 9th grade,4.072054854981085,21.75589
+C1,the_changing_workplace,14-16,"What skills will the workforce of the future need?
+As technological innovations continue to change the workplace, we are seeing more industries entrust their operations to new gadgets, software and programs that can transform the workplace. One such technology that has the potential to revolutionise workplaces in the coming years is RPA (Robotic Process Automation). With more industries starting to embrace RPA software, RPA robots would be able to handle mundane, repetitive tasks like some of the clerical work normally dealt with by administrative staff, thereby lowering running costs and increasing productivity.
+There is a common concern that companies employing technology like RPA are only interested in increasing their profit margins through cost reduction, and that this trend would eventually leave most of the workforce jobless. However, while it is true that the menial tasks of administrative and clerical jobs are likely to be taken over by automation, the demands on the average office worker will evolve to include more creative work, managerial duties and communication with clients and suppliers.
+With this shift in focus, the skills required of future workers are also bound to change. Moving away from basic data entry skills, the worker of the future will be expected to have transferable problem-solving and critical thinking skills that will enable them to tackle any difficult situation and work independently to find solutions.
+The ability to adapt and be agile would also be essential in a world that is likely to become increasingly volatile, uncertain and complex. Having such flexibility, coupled with the desire to keep learning and the initiative to step forward, the successful worker of the future is one who will be able to use their skills to seek out opportunities, make improvements and take on new challenges wherever they'll be working.
+By equipping our future generation of workers with such business skills, we can ensure that when automation fully takes over, our workers will have the survival skills to become better employees and leaders of the future.",16.608294424608626,16.908762484321528,22,>18,331,11,1.7341389728096677,64,188,29.58457017302942,13.705740181268885,18.830318593792917,11.425927519912111,94,14.2,19.407964844822853,16th and 17th grade,7.939824224114254,26.03068
+C1,Zero Hours-adv,14-16,"﻿More than one million British workers might be employed on zero-hours contracts, new figures reveal, suggesting that British business is using the controversial employment terms far more widely than previously thought. 
+The figure – derived from a poll of more than 1,000 employers conducted by the Chartered Institute of Personnel and Development (CIPD) – prompted renewed calls for the government to launch a full inquiry into the use of the contracts, after a week in which a string of organizations – from retail chains to Buckingham Palace – have faced criticism for hiring staff but offering no guarantee of work and pay each week. Employees on zero-hours contracts often get no holiday or sick pay and have to ask permission before seeking additional work elsewhere. The CIPD found that 38% of zero-hours contract workers describe themselves as employed full-time, typically working 30 hours or more a week. One-third of voluntary sector employers use the contracts and one in four public sector organizations. 
+The latest numbers also call into question the accuracy of official data on the topic. The Office for National Statistics has increased its estimate of the number of UK zero-hours workers by 25%, to around 250,000. 
+Peter Cheese, the chief executive of the CIPD, said: “There does need to be a closer look at what is meant by a zero-hours contract, the different forms that they take and clearer guidance on what good and bad practice in their use looks like. And this needs to consider both the advantages and disadvantages in practice for businesses and employees.” 
+Retailer Sports Direct recently became the focus of controversy on zero-hours when it emerged that the company employs around 20,000 of its 23,000 staff on the contracts. The retailer’s use of the contracts was followed by details of a string of other companies using the deals, including cinema chain Cineworld and Buckingham Palace, which uses them for its 350 summer workers. 
+Pub group J D Wetherspoon has 24,000 of its staff – 80% of its workforce – on the terms. 
+Vidhya Alakeson, from the Resolution Foundation, an independent think tank, added: “If it’s true that there are around one million people on zero-hours contracts, then that would be a substantial portion of the workforce – this could no longer be dismissed as an issue affecting only a tiny minority. 
+“The new estimate underlines the urgent need for a deep and thorough review of zero-hours by the government, which takes into account not only the scale of the problem but the effect these contracts have on workers’ employment rights, earning capacity and personal well-being.” 
+Unions and poverty campaign groups have accused employers of pressuring staff into signing the contracts as a way to evade their responsibilities and cut staff benefits. 
+Dave Prentis, of the trade union Unison, said: “The vast majority of workers are only on these contracts because they have no choice. They may give flexibility to a few, but the balance of power favours the employers and makes it hard for workers to complain.” 
+Workers on zero-hours contracts are often only told how many hours they will work when weekly or monthly rotas are worked out, but are expected to be on call for extra work at short notice. They should be entitled to holiday pay in line with the number of hours they work, but do not qualify for sick pay. 
+The charity National Trust, which employs many of its seasonal workers on zero-hours contracts, said it offered the same pay and benefits to those workers, pro rata, as full-time staff, but needed some workers to be on a more flexible arrangement. 
+“We believe zero-hours contracts are essential in our organization, as we are very weather- dependent,” a spokeswoman said. “Our properties have told us it’s important to be able to reorganize staff rotas quickly to respond to the weather and zero-hours contracts allow us to do this.” 
+Politician Chuka Umunna said the contracts should be the exception to the rule. “While some employees welcome the flexibility of such contracts, for many, zero-hours contracts leave them insecure and unsure of when work will come,” he said. 
+Some people have argued that the flexibility of zero-hours contracts may have allowed the UK to avoid higher levels of unemployment during the economic downturn, while the CIPD research suggests that only 16% of those on zero-hours contracts report that their employer frequently fails to provide them with sufficient hours each week. 
+The institute’s figures also suggest that 17% of employers in the private sector made use of zero- hours contracts, considerably lower than the 34% of organizations in the voluntary sector and 24% in the public sector. 
+Industries where employers were most likely to report at least one person on a zero-hours contract were hotels, catering and leisure (48%), education (35%) and healthcare (27%).",14.832704402515729,15.172626615295597,20,>18,795,27,1.6050314465408806,120,476,41.163228511530434,11.92477987421384,17.218082571349406,11.15474318658281,170,33.5,17.463312368972748,14th and 15th grade,7.684251572327044,59.84706
+C2,analytic_feminism,16-18,"Contemporary analytic philosophers, feminist and nonfeminist, can be characterized roughly as follows: they consider (some of) Frege, Russell, Moore, Wittgenstein, and the Logical Positivists to be their intellectual ancestors; they tend to prize explicit argumentation and the literal, precise, and clear use of language; they often value the roles of philosophy of language, epistemology, and logic; and they typically view their stock of philosophical concepts, methods, and assumptions to be a) consistent with their Modern European heritage, and b) in contrast with methods originating in twentieth-century continental Europe, most recently those having names beginning with ‘post’: poststructuralism and postmodernism broadly conceived.
+Of course, each strand of mid-twentieth-century, “classic” analytic philosophy has changed greatly. Many central dogmas have been undermined, and nonfeminists and feminists alike have “naturalized,” “socialized,” and otherwise modulated the earlier, more abstract and highly normative enterprises and doctrines. However, regardless of the extent of the evolution of “analytic philosophy,” the degree to which methodological boundaries are blurred today, and the fruitfulness of intersections among methods, a number of feminist and nonfeminist philosophers continue to think of themselves in the historical trajectory of analytic philosophy and find the tradition valuable. They claim the term ‘analytic philosopher’ for themselves, even if some others might find the term ‘post-analytic’ more appropriate.[2]",25.00809523809524,23.72669961743115,30,>18,210,5,2.052380952380952,65,107,-9.426428571428543,18.958095238095236,29.69157142857143,13.088366666666667,75,79.0,28.41904761904762,12th and 13th grade,10.364809523809525,19.728669999999997
+C2,existentialism,16-18,"Like “rationalism” and “empiricism,” “existentialism” is a term that belongs to intellectual history. Its definition is thus to some extent one of historical convenience. The term was explicitly adopted as a self-description by Jean-Paul Sartre, and through the wide dissemination of the postwar literary and philosophical output of Sartre and his associates—notably Simone de Beauvoir, Maurice Merleau-Ponty, and Albert Camus—existentialism became identified with a cultural movement that flourished in Europe in the 1940s and 1950s. Among the major philosophers identified as existentialists (many of whom—for instance Camus and Heidegger—repudiated the label) were Karl Jaspers, Martin Heidegger, and Martin Buber in Germany, Jean Wahl and Gabriel Marcel in France, the Spaniards José Ortega y Gasset and Miguel de Unamuno, and the Russians Nikolai Berdyaev and Lev Shestov. The nineteenth century philosophers, Søren Kierkegaard and Friedrich Nietzsche, came to be seen as precursors of the movement. Existentialism was as much a literary phenomenon as a philosophical one. Sartre’s own ideas were and are better known through his fictional works (such as Nausea and No Exit) than through his more purely philosophical ones (such as Being and Nothingness and Critique of Dialectical Reason), and the postwar years found a very diverse coterie of writers and artists linked under the term: retrospectively, Dostoevsky, Ibsen, and Kafka were conscripted; in Paris there were Jean Genet, André Gide, André Malraux, and the expatriate Samuel Beckett; the Norwegian Knut Hamsun and the Romanian Eugene Ionesco belong to the club; artists such as Alberto Giacometti and even Abstract Expressionists such as Jackson Pollock, Arshile Gorky, and Willem de Kooning, and filmmakers such as Jean-Luc Godard and Ingmar Bergman were understood in existential terms. By the mid 1970s the cultural image of existentialism had become a cliché, parodized in countless books and films by Woody Allen.[1]
+It is sometimes suggested, therefore, that existentialism just is this bygone cultural movement rather than an identifiable philosophical position; or, alternatively, that the term should be restricted to Sartre’s philosophy alone.[2] Two recent books, both of them sustained attempts to engage critically and constructively with existentialism in the context of contemporary philosophical debates, adopt versions of these stances. Jonathan Webber argues that “as originally defined by Simone de Beauvoir and Jean-Paul Sartre, existentialism is the ethical theory that we ought to treat the freedom at the core of human existence as intrinsically valuable and the foundation of all other values” (2018: 2). If we stick to this definition, we can both recognize the fissures within what is called “existentialism” in the expansive sense and also see how existentialism can “ground sophisticated contributions to social psychology, philosophy of mind, moral philosophy, cultural theory, and psychotherapy” (2018: 19). Taking up the other stance, Noreen Khawaja notes the perennial difficulty in specifying just who is supposed to belong to the “movement” of existentialism, given that the term itself was either unknown to some who are conscripted or outright rejected by others. But, she argues, this is a problem only if existentialism is taken to be a movement. Though aspects of such a movement can be found in the historical record, existentialism itself “is a tradition, not a movement”; that is, “a pattern of intergenerational influence, in which later figures read and appropriated the work of earlier figures” (Khawaja 2016: 4). What animates this tradition—exemplified here by Kierkegaard, Heidegger, and Sartre—is its struggle with religion and the fact that the writing of even so-called “atheist” existentialists “feels religious to its readers” (2016: 16). Interestingly, taking either stance leads to the same place: For Khawaja, “the idea of personal authenticity [is] at the center of existential thought” (2016: 24), while for Webber, the existentialism of Sartre, Beauvoir, and Franz Fanon begins with “eudaimonist arguments for the virtue of authenticity” and finally affirms “a categorial moral imperative of authenticity” (2018: 19).
+In this entry, I will employ elements of both approaches. Like Khawaja, I take existentialism to be a usefully broad term of intellectual history that can illuminate the work of philosophers and others who preceded the rise of the “movement” or rejected the label. In this sense, “existentialism” picks out a distinctive cluster of philosophical problems and a relatively distinct current of twentieth- and now twenty-first-century philosophical inquiry, one that has had significant impact on fields such as theology (through Rudolf Bultmann, Paul Tillich, Karl Barth, and others) and psychology (from Ludwig Binswanger and Medard Boss to Otto Rank, R. D. Laing, and Viktor Frankl). On the other hand, I do not think that the “tradition” of existential thought should be approached exclusively in terms of the (very real) struggle with religion that gives some of the works of existential philosophy a religious “feel” (but see Westphal 2012). I agree with Webber that there is a core of philosophical (categorial) content to existential thought that can be understood independently of the sort of religious “rhetoric” (Khawaja 2016: 16) characteristic of many of the classics of existentialism. Unlike Webber, however, I think that this categorial content is quite widely shared—beyond Sartre, Beauvoir, and Fanon—and must be understood as grounded in the phenomenological approach that so excited Sartre (see Crowell 2012b). The phenomenological approach gave philosophical shape to the basic existential insight that thinking about human existence requires new categories not found in the conceptual repertoire of ancient or modern thought; human beings can be understood neither as substances with fixed properties, nor as subjects interacting with a world of objects.
+On the existential view, to understand what a human being is it is not enough to know all the truths that natural science—including the science of psychology—could tell us. The dualist who holds that human beings are composed of independent substances—“mind” and “body”—is no better off in this regard than is the physicalist who holds that human existence can be adequately explained in terms of the fundamental physical constituents of the universe. Existentialism does not deny the validity of the basic categories of physics, biology, psychology, and the other sciences (categories such as matter, causality, force, function, organism, development, motivation, and so on). It claims only that human beings cannot be fully understood in terms of them. Nor can such an understanding be gained by supplementing our scientific picture with a moral one. Categories of moral theory such as intention, blame, responsibility, character, duty, virtue, and the like do capture important aspects of the human condition, but neither moral thinking (governed by the norms of the good and the right) nor scientific thinking (governed by the norm of truth) suffices.
+“Existentialism”, therefore, may be defined as the philosophical theory which holds that a further set of categories, governed by the norm of authenticity, is necessary to grasp human existence. To approach existentialism in this categorial way may seem to conceal what is often taken to be its “heart” (Kaufmann 1968: 12), namely, its character as a gesture of protest against academic philosophy, its anti-system sensibility, its flight from the “iron cage” of reason. But while it is true that the major existential philosophers wrote with a passion and urgency rather uncommon in our own time, and while the idea that philosophy cannot be practiced in the disinterested manner of an objective science is indeed central to existentialism, it is equally true that all the themes popularly associated with existentialism—dread, boredom, alienation, the absurd, freedom, commitment, nothingness, and so on—find their philosophical significance in the context of the search for a new categorial framework, together with its governing norm.",20.136344537815123,18.681798309485796,25,>18,1239,34,1.823244552058111,252,708,15.600716778236771,14.761097659402749,23.301919954422445,12.491496477234962,311,18.5,22.356938707686467,17th and 18th grade,9.142339054265774,102.44806
+C2,idealism,16-18,"The terms “idealism” and “idealist” are by no means used only within philosophy; they are used in many everyday contexts as well. Optimists who believe that, in the long run, good will prevail are often called “idealists”. This is not because such people are thought to be devoted to a philosophical doctrine but because of their outlook on life generally; indeed, they may even be pitied, or perhaps envied, for displaying a naïve worldview and not being philosophically critical at all. Even within philosophy, the terms “idealism” and “idealist” are used in different ways, which often makes their meaning dependent on the context. However, independently of context one can distinguish between a descriptive (or classificatory) use of these terms and a polemical one, although sometimes these different uses occur together. Their descriptive use is best documented by paying attention to the large number of different “idealisms” that appear in philosophical textbooks and encyclopedias, ranging from metaphysical idealism through epistemological and aesthetic to moral or ethical idealism. Within these idealisms one can find further distinctions, such as those between subjective, objective and absolute idealism, and even more obscure characterizations such as speculative idealism and transcendental idealism. It is also remarkable that the term “idealism”, at least within philosophy, is often used in such a way that it gets its meaning through what is taken to be its opposite: as the meaningful use of the term “outside” depends on a contrast with something considered to be inside, so the meaning of the term “idealism” is often fixed by what is taken to be its opposite. Thus, an idealist is someone who is not a realist, not a materialist, not a dogmatist, not an empiricist, and so on. Given the fact that many also want to distinguish between realism, materialism, dogmatism, and empiricism, it is obvious that thinking of the meaning of “idealism” as determined by what it is meant to be opposed to leads to further complexity and gives rise to the impression that underlying such characterizations lies some polemical intent.
+Within modern philosophy there are sometimes taken to be two fundamental conceptions of idealism:
+something mental (the mind, spirit, reason, will) is the ultimate foundation of all reality, or even exhaustive of reality, and
+although the existence of something independent of the mind is conceded, everything that we can know about this mind-independent “reality” is held to be so permeated by the creative, formative, or constructive activities of the mind (of some kind or other) that all claims to knowledge must be considered, in some sense, to be a form of self-knowledge.
+Idealism in sense (1) has been called “metaphysical” or “ontological idealism”, while idealism in sense (2) has been called “formal” or “epistemological idealism”. The modern paradigm of idealism in sense (1) might be considered to be George Berkeley’s “immaterialism”, according to which all that exists are ideas and the minds, less than divine or divine, that have them. (Berkeley himself did not use the term “idealism”.) The fountainhead for idealism in sense (2) might be the position that Immanuel Kant asserted (if not clearly in the first edition of his Critique of Pure Reason (1781) then in his Prolegomena to Any Future Metaphysics (1783) and in the “Refutation of Idealism” in the second edition of the Critique) according to which idealism does “not concern the existence of things”, but asserts only that our “modes of representation” of them, above all space and time, are not “determinations that belong to things in themselves” but features of our own minds. Kant called his position “transcendental” and “critical” idealism, and it has also been called “formal” idealism. However, Kant’s position does not provide a clear model of idealism at all. While Kant himself claimed that his position combined “empirical realism” with “transcendental idealism”, that is, combined realism about external, spatio-temporal objects in ordinary life and science with the denial of the reality of space and time at the level of things as they are in themselves, it also insisted upon the reality of things as they are in themselves existing independently from our representations of them, thus denying their reducibility o representations or the minds that have them. In this way, Kant’s position actually combines the transcendental ideality of space and time with a kind of realism about the existence of things other than minds.
+So instead of using Kant as any kind of model for epistemological idealism, in this entry we will distinguish between metaphysical and epistemological arguments for idealism understood as a metaphysical doctrine, namely that everything that exists is in some way mental. We thus agree with A.C. Ewing, who wrote in 1934 that all forms of idealism
+have in common the view that there can be no physical objects existing apart from some experience, and this might perhaps be taken as the definition of idealism, provided that we regard thinking as part of experience and do not imply by “experience” passivity, and provided we include under experience not only human experience but the so-called “Absolute Experience” or the experience of a God such as Berkeley postulates. (Ewing 1934: 3)
+in other words, while reducing all reality to some kind of perception is one form of idealism, it is not the only form—reality may be reduced to the mental on other conceptions of the latter. Thus Willem deVries’s more recent definition of idealism as the general theory that reduces reality to some form or other of the mental is just:
+Roughly, the genus comprises theories that attribute ontological priority to the mental, especially the conceptual or ideational, over the non-mental. (deVries 2009: 211)
+We also agree with Jeremy Dunham, Iain Hamilton Grant, and Sean Watson when they write that
+the idealist, rather than being anti-realist, is in fact … a realist concerning elements more usually dismissed from reality. (Dunham, Grant, & Watson 2011: 4)
+namely mind of some kind or other: the idealist denies the mind-independent reality of matter, but hardly denies the reality of mind (or, on their account, which goes back to Plato, Ideas or Forms as well as minds; we will not consider pre-modern forms of idealism in any detail). However, following Ewing (see his chapters II, IV–V, and VIII), we will distinguish metaphysical from epistemological arguments for idealism. Metaphysical arguments proceed by identifying some general constraints on existence and arguing that only minds of some sort or other satisfy such conditions; epistemological arguments work by identifying some conditions for knowledge and arguing that only objects that are in some sense or other mental can satisfy the conditions for being known. In particular, epistemological arguments for idealism assume that there is a necessary isomorphism between knowledge and its object that can obtain only if the object of knowledge is itself mental; we propose that this is the difference between epistemologically-motivated idealism and a more neutral position, which might be identified with philosophers such as Rudolf Carnap, W.V.O. Quine, and Donald Davidson, holding that of course we always know things from some point of view, but any “external” question about whether or not our point of view “corresponds” to independent reality is either meaningless or at least not answerable on theoretical grounds. It is in order to preserve the distinction between traditional idealism and positions such as the latter that we recommend retaining the claim that reality is in some way or other exclusively mental and thinking of epistemological arguments for idealism rather than epistemological idealism as such.
+Of course these strategies can be combined by a single philosopher. Berkeley does so, and so does Kant in arguing for the transcendental idealist part of his complex position. Others separate them, for example F.H. Bradley and J.McT.E. McTaggart constructed metaphysical arguments for idealism, while Josiah Royce and Brand Blanshard offered epistemological arguments.
+In what follows, we will concentrate mainly on the discussion of philosophical theories that either endorse or claim to endorse idealism on ontological and/or epistemological grounds. At some points in its complex history, however, above all in the social as well as philosophical movement that dominated British and American universities in the second half of the nineteenth century and through the first World War, idealism in either of its philosophical forms was indeed connected to idealism in the popular sense of progressive and optimistic social thought. This was true for figures such as Bradley and Royce and their predecessors and contemporaries such as Thomas Hill Green and Bernard Bosanquet. There has recently been considerable interest in British or more generally Anglophone idealism as a movement in social philosophy, or even a social movement, but we will not pursue that here (see Mander 2011; Boucher & Vincent 2012; Mander [ed.] 2000; and Mander & Panagakou [eds.] 2016).",19.561314644266776,19.08892028140148,25,>18,1446,41,1.8132780082987552,320,847,17.63436342475461,13.367496542185345,21.38478082422203,11.435364716796546,276,16.75,22.433734777181797,18th and 19th grade,8.60712664035354,113.87688
+C2,intentional_transitive_verbs,16-18,"A verb is transitive if and only if it usually occurs with a direct object, and in such occurrences it is said to occur transitively. Thus ‘ate’ occurs transitively in ‘I ate the meat and left the vegetables’, but not in ‘I ate then left’ (perhaps it is not the same verb ‘left’ in these two examples, but it seems to be the same ‘ate’). A verb is intensional if the verb phrase (VP) it forms with its complement is anomalous in at least one of three ways: (i) substituting one expression for another that is coreferential with it in the complement of the verb can change the truth-value of the sentence in which the VP occurs – for instance, you might admire Mark Twain but not Samuel Clemens, not realizing that your pesky neighbor Sam is the famous writer (in this case substitution of the coreferential ‘Samuel Clemens’ for ‘Mark Twain’ in the VP ‘admire Mark Twain’ will turn a true sentence, ‘you admire Mark Twain’ into a false one, ‘you admire Samuel Clemens’); (ii) the VP admits of a special “unspecific” reading if it contains a quantifier, or a certain type of quantifier (Quine’s example (1956:185) is famous: he observes that if we paraphrase ‘I want a sloop’ as ‘there is a (specific) sloop such that I want it’, this will give the wrong idea if all I want is ‘mere relief from slooplessness’, a sloop but no specific one; for more examples, see section 1); and (iii) the normal existential commitments of names and existential quantifiers in the complement are suspended even when the embedding sentence is negation-free (again, see section 1).
+Intensional phenomena are puzzling, and worth studying, because (a) it seems that the only way to account for language-speakers’ capacities to produce and understand sentences of their native languages which they have never encountered before is to posit compositional structure in language and an interpretive capacity in speakers that exploits it. But (b) the simplest ideas about what such structure is like cannot accommodate intensionality. So we want to know what the smallest complication is which allows for the intensional. Investigation of intensional verbs has focussed mainly on verbs used to make propositional attitude reports. These verbs take clauses rather than direct objects as their complements. However, as we will see below, intensional transitive verbs (henceforth ITVs) do not merely duplicate the problems raised by propositional attitude verbs, but introduce special difficulties of their own.",21.088345558272213,18.83193753551143,26,>18,409,9,1.6063569682151588,68,267,24.811089377886475,11.612713936430318,25.083466124661243,11.565678918772072,84,21.333333333333332,24.436946481934257,20th and 21st grade,9.580651996740016,30.42299
+C2,medicalization,16-18,"Pregnancy and childbirth have become increasingly medicalized in most parts of the world since the early twentieth century. That is, they are increasingly processes that—in fact and as a social ideal—are managed and overseen by medical professionals, typically involve a high degree of technological medical intervention and contact with clinics and hospitals, and are assessed by medical experts who are the authorities on their progress. Amy Mullin explains that medicalized pregnancy “involves interpreting pregnancy itself as a disruption to health that necessarily requires expert medical intervention, and thinking of pregnancy as primarily about health and illness” (Mullin 2005, 54). The concept of medicalization is helpful in making clear how this sort of insertion into a medical context is not (or not simply) a response to fixed biological facts, but rather a contingent social and institutional process. Death, depression, and short attention span are other examples of processes or conditions that have undergone intense medicalization. In general, medicalization comes with both benefits and burdens, and the medicalization of pregnancy and birth is no exception. Increasingly few obstetricians would claim that intense medicalization straightforwardly promotes good birth outcomes for mothers and infants; rather, almost all would acknowledge that while medical interventions have lessened many risks (e.g. death from placenta previa and ectopic pregnancy), other medical interventions have become routine despite having no proven benefit and some proven added risks for patients (e.g. routine fetal monitoring, normalization of the lithotomy position for childbirth, and episiotomies). Partly because of these mixed effects of increased medicalization, opposing narratives of pregnancy and birth continue to grow in visibility and support. These narratives may aim to de-medicalize the notion of normalcy in pregnancy and birth, or centralize the knowledge and competence of midwifery (e.g., Lyerly 2012; Shaw 2013)
+The medicalization of pregnancy and birth takes many forms. North American births typically involve a variety of technological interventions, regularly including labor-inducing drugs, spinal epidurals, fetal monitoring, and—in roughly one third of births—surgical delivery. Prior to birth, most pregnancies will involve medical interventions such as genetic testing, ultrasound screening, prescriptions to control various symptoms and risks, and—with increasing frequency—technological assistance for conception. Importantly, however, the rate and intensity with which such interventions are offered or imposed is far from uniform. Dorothy Roberts highlights the striking disparity of benefits enjoyed as a result of medicalization: ""The multibillion-dollar apparatus devoted to technologically facilitating affluent couples' procreative decisions stands in glaring contrast to the high rate of infant death among black people, which remains more than twice the rate for whites"" (2009, 784, citing Mathews and MacDorman 2007). Some dimensions of the medicalization of pregnancy do not directly involve medical interventions. Both inside and outside the clinic, pregnancy is treated as a medical event requiring intense risk management, monitoring, and appeals to expert medical knowledge: pregnant women are expected to regulate and monitor their eating, drinking, fetal kicks, weight gain, sleeping position, emotions, exposure to basic household products, exercise, sexual activity, and many other aspects of their lives according to standards established by medical professionals (Kukla 2005). Recently, there has been a vigorous mandate to involve medical professionals in helping women regulate their bodies in accordance with medical standards for minimizing reproductive risk even prior to conception. The CDC now recommends that all primary care for all women who may eventually become pregnant (including prepubescent girls) be treated as ‘preconception care’ (Kuehn 2006). A majority of women embrace at least some aspects of medicalization; many take it as part of responsible motherhood to maximize the expert management of their pregnancies and to follow risk-minimization advice carefully (Seigel 2013).
+The general trend towards medicalizing pregnancy and birth has had several ethically noteworthy effects (Davis-Floyd 2004, Duden 1993, Mitchell 2001, Morgan 1998, Sherwin 1992). First, medicalization has encouraged us to imagine pregnancy and birth as inherently high-risk, pathological processes that it is irresponsible to undertake without large amounts of expert help and surveillance. Second, when medical professionals become the primary managers of reproduction, pregnant women's epistemic privilege is undermined and they are arguably reduced to playing passive roles in their own pregnancies and births (e.g., Freeman 2015). Third, some have argued that medicalization has rendered pregnancy in general, and labor and birth in particular, more alienating and stressful for women, burdening them with constant and complicated responsibilities for elaborate risk management and bodily and behavioral surveillance (for review see, e.g., Mykitiuk and Scott 2011; Savell 2012).
+Among the voices pushing back against the medicalization of reproduction are those that insist that pregnancy is a ‘natural’ process that generally needs no technological assistance, and advocate ‘natural’ childbirth, free of labor-inducing and pain medications and attended by midwives rather than doctors. There are reasons for philosophers to be as wary of the ‘natural’ birth movement as of uncritical, unchecked medicalization (Kukla 2005, Lyerly 2006 and 2012, Purdy 2001). Typically, its advocates do not specify a clear concept of the ‘natural’—for example, they have no account of why prescription pain medications are ‘unnatural’ while acupuncture or pain-relieving herbs are ‘natural’. Nor do they explain why the ‘natural’ is prima facie better or more ethical. More broadly, this account of pregnancy and birth involves comparable pressures on pregnant women to conform to rigid standards of attitudes and behaviours, and, like the medicalized account, is in danger of de-politicizing and essentializing the experience and management of pregnant women (Beckett 2005, Malacrida and Boulton 2014).",18.49180032438277,19.22190105533066,23,>18,895,31,1.9340782122905027,246,441,13.90795098215898,17.307262569832407,21.675964317895115,13.131103351955309,283,26.0,22.22995134258425,21st and 22nd grade,8.714946116417373,80.03112
+C2,micropropagation,16-18,"Land threatens the overall economy of Ethiopia.
+Particularly, the agricultural sector which is a source of
+45% of the country‟s GDP and 85% of employment is
+highly vulnerable to the problem of land degradation
+(Gebrelibanos and Abdi, 2012; MoFED, 2013). Based on
+this, the creation of conducive atmosphere for better
+performance of the agricultural sector is not only an
+important and realistic option to improve food security
+status of Ethiopians but also a means to improve their
+standard of living. However, recently due to changes in
+watersheds in general and land degradation in particular
+which resulted from a range of natural and anthropogenic
+factors, the agricultural sector has been challenged and
+the extent of fertile land available for this sector is
+decreasing; this can reduce productivity, household‟s
+food security, and aggravate poverty in degraded areas
+of the country (MoA, 2012; Teklewold and Kohlin, 2011;
+Gebrelibanos and Abdi, 2012).
+On the other hand, Woldeamlak (2003), Mushir and
+Kedru (2012), Abebaw et al. (2011), FAO (2012),
+Befikadu and Frank (2015) argued that land management
+practices in Ethiopia have fallen far below expectations
+and land degradation mainly caused by erosion remains
+widespread in the country. They further argued that the
+adoption rate of conservation practices by farmers
+remains limited and still the country is losing a
+tremendous amount of fertile top soil, and the threat of
+land degradation is broadening alarmingly. In view of this,
+the Ethiopian Government and other developmental
+partners have introduced an extensive mechanical and
+biological watershed conservation schemes in various
+parts of the country over the last decades particularly
+after the famine of the 1970s (Emily and Fanaye, 2012;
+Binyam and Desale, 2014).",19.343412408759125,19.53771442962202,24,>18,274,8,1.8284671532846717,66,155,17.382928832116818,14.240875912408764,21.70313868613139,12.884533576642337,81,19.0,22.751094890510952,18th and 19th grade,8.744162408759124,22.225969999999997
+C2,netanyahu,16-18,"Prime Minister Benjamin Netanyahu’s corruption trial resumes on Monday, when Israel’s longest-serving leader will have to enter his plea to charges of bribery, fraud and breach of trust.
+Involving secret recordings, media moguls, gifts of cigars and champagne and aides’ betrayals, the three corruption cases have all the makings of a political thriller.
+WILL IT BRING HIM DOWN?
+Netanyahu has managed to stay in office throughout the investigations and three election campaigns - with a fourth election due on March 23.
+He denies wrongdoing and a trial is likely to take years. He will fight to remain prime minister in March and possibly for years afterwards. If he wins, he could try to secure parliamentary immunity, or pass laws to exempt a serving prime minister from standing trial.
+HOW HAS HE REMAINED IN OFFICE?
+Under Israeli law, a prime minister is under no obligation to stand down unless convicted. No other government minister is protected in this way, so there are legal and political reasons why Netanyahu wants to stay at the top.
+DO ISRAELIS CARE?
+Yes. The corruption case has had a polarising impact on Israelis. Thousands of demonstrators gather weekly outside his official residence and across Israel under the banner of “Crime Minister”, demanding he quit.
+But his right-wing voter base has stayed loyal. Supporters see the man they call King Bibi as strong on security and an influential voice for Israel abroad.
+WHAT ARE THE CHARGES?
+CASE 4000 alleges Netanyahu granted regulatory favours worth around 1.8 billion shekels (about $500 million) to telecommunications company Bezeq Telecom Israel. In return, prosecutors say, he sought positive coverage of himself and wife Sara on a news website controlled by the company’s former chairman, Shaul Elovitch.
+In this case, Netanyahu has been charged with bribery, fraud and breach of trust. Elovitch and his wife, Iris, have been charged with bribery and obstruction of justice. The couple deny wrongdoing.
+CASE 1000, in which Netanyahu has been charged with fraud and breach of trust, centres on allegations that he and his wife wrongfully received almost 700,000 shekels worth of gifts from Arnon Milchan, a Hollywood producer and Israeli citizen, and Australian billionaire businessman James Packer.
+Prosecutors said gifts included champagne and cigars and that Netanyahu helped Milchan with his business interests. Packer and Milchan face no charges.
+CASE 2000 alleges Netanyahu negotiated a deal with Arnon Mozes, owner of Israeli newspaper Yedioth Ahronoth, for better coverage and that, in return, he offered legislation that would slow the growth of a rival newspaper. Netanyahu has been charged with fraud and breach of trust. Mozes has been charged with offering a bribe, and denies wrongdoing.
+WHAT DOES NETANYAHU SAY?
+Netanyahu says he is the victim of a politically orchestrated “witch hunt” by the left and media to oust him from office, and that receiving gifts from friends is not against the law.
+COULD HE GO TO JAIL?
+Bribery charges carry a jail sentence of up to 10 years and/or a fine. Fraud and breach of trust carry a sentence of up to three years.
+WILL A VERDICT COME SOON?
+Unlikely. The trial could take years. But proceedings could be cut short if Netanyahu seeks a plea deal.",9.184722222222224,12.409260514057213,14,13-14,531,36,1.6120527306967984,95,339,55.48408898305087,11.225988700564976,10.194417293233084,10.88035988700565,116,11.166666666666666,12.604331450094165,10th and 11th grade,5.412911958568738,40.23591
+C2,rosenstock_huessy,16-18,"As with Franz Rosenzweig (who goes to great length in The Star of Redemption and Understanding the Sick and the Healthy to demonstrate that God, man and world underpin three fundamentally different and irreducible foundations of explanation which have shaped our history), Rosenstock-Huessy was convinced that humanism’s attempt to free itself from all gods (making humanity and/or nature the ground of reality) was based upon a failure to grasp more ancient insights into the nature of the real and the relationship between reality, language and history. To this important extent, again like Rosenzweig, he argued that language was more fundamental than either philosophy or religion and philosophy’s attempt to free itself from and reduce religion to a deficient kind of philosophy was based upon its failure to take language, and hence reality, sufficiently seriously. As he would say in a letter to Cynthia Harris: ‘Not religion but language forces man to distinguish between this world and the real world, the world as we know it and the genuine, or better known world. The crux of theology is a crux of language, and all our rationalists are not protesting against religion but against speech’ (1943, 162).
+But unlike Karl Barth or Paul Tillich, for example, who saw themselves as fusing philosophy and theology, Rosenstock-Huessy refused to see himself primarily as a philosopher or theologian—though when the term philosopher was qualified by the preceding ‘social’, he was more willing to accept that designation.[2] His criticisms of theology and philosophy were numerous, varied in content and highly nuanced—and hence unable to receive full treatment here. Generally, though, he thought both were, what he called, ‘second order activities’, or products of the reflective mind at ‘play’. Philosophical and theological speech trailed behind and were dependent upon the more urgent and creative acts of ‘founding’, that is, those acts which emerge out of life’s exigencies, which are epoch making ‘events’ and which are at the source of human institutions and new forms of life, and which cannot be separated from the vocabulary, or, more specifically, the shared names and foci of orientation which connect us across space and over time.[3] In the most philosophical of all his works, the first volume of his Soziologie, when contrasting the respective limits of theology with philosophy, he says that theology is guilty of reducing us to sinners and angels and thus not adequately accounting for our being flesh and blood, while philosophers tend to reduce us to objects and things in the dead space of the universe and ‘to mirror the objective world in their subjective world’ (1956, 286). ‘Religion,’ he says in that same section, ‘is unjust against nature and the human spirit (Geist)’; while philosophy is blind to ‘the time-endowing forces’ (‘die zeitstiftenden Gewalten’).[4]
+Against philosophers and theologians, he saw his task as restoring our attunement to the potencies embedded in our speech and institutions so that we could draw upon the power of past times in order to strengthen our openness to the promise of the future in the present. To this end, while his corpus cuts across numerous disciplines, his major systematic work, one rewritten throughout the course of his life, was his two part Sociology Im Kreuz der Wirchlichkeit (In the Cross of Reality)—the first volume of which is to appear with Transaction in 2017: volume one originally appeared (to use the English title) in 1925 as The Forces of Community, and then reworked as The Hegemony of Spaces; volume two being The Full Count of the Times. His social philosophy is concerned with how, when a world implodes on or devours them—through what he terms the four social diseases of anarchy, decadence, revolution and war (1970a, 11–16)—people can escape the tyranny of forces that have come to rule the space in which they dwell by founding a new time which will then open up other spatial possibilities. For him, then, the key to human freedom is the capacity both to found the new and draw upon the powers encapsulated in bodies of time past which enable us to live in a present in which we feel blessed by the future. Rosenstock-Huessy repeatedly argues that philosophy generally is particularly weak in assisting us with this task and it is ultimately to sociology that Rosenstock-Huessy turned as ‘the way to win again our freedom over spaces and through times’ (2009,1, 22). Hence against the Cartesian cogito, which he saw as providing the underpinning formulation of the philosophy of modernity, Rosenstock-Huessy retorts with the much more archaic Respondeo etsi mutabor—‘I respond although I will be changed’ (1938, 817–830; 1970b, 17–33). In other words, we are fundamentally responsive creatures—and our creations are shaped by our responses either to the weight and push of the past, the burdens or joys of the present or the pull and call of the future. Like Vico, whom Rosenstock-Huessy greatly admired, he believes we are inescapably rooted in history, even though our great revolutions attempt to rip us out of it, in order to begin anew and build a much better world, thereby opening up new paths of self-hood.[5]
+Philosophy’s major deficiency, for Rosenstock-Huessy, is that it is not sufficiently sensitive to time, speech or history. To a large extent this is because logic itself is timeless. As he says in ‘The Terms of the Creed’, ‘logic is that mode of spiritual life in which the divinity of timing is omitted’. Logic transports us out of time and offers the mind a stable, but unreal space. For Rosenstock-Huessy, this search for a stable space is reflected in recurrent philosophical elements which privilege the implacability of space (or a particular space) over the ceaselessness of time. Modern philosophy’s division of things into subject and object (a spatial configuration) is a case in point, but it goes back to the ancients whose building blocks such as topics (from topos place), ‘categories’ (from kata = ‘down to’ and agora = ‘the public assembly’ i.e. declaiming in the assembly), reason’s sphericality, and ideas (the very term idea, eidein = ‘to see’, referring to something visible to the mind’s eye) all suggest a commitment to (the mental) space’s primacy. The same point is made somewhat more elaborately in the first volume of the In the Cross of Reality (2009, 1,307 –311) where he argues that dialectical thought is triadic, but anything that really happens and makes itself manifest, i.e. appears (erscheint), is at least quadrilateral.[6] It must be something in space and time, and hence conform to the inner/outerness or subjective/objective matrix of space, as well as the trajective and prejective-ness of time. He called this four-fold matrix the cross of reality and it is applied repeatedly throughout his works.
+While Rosenstock-Huessy provided a range of arguments against philosophers wanting to make more of reason and less of language, time and history than their due, and while he preferred to classify himself as a sociologist, he can also be seen as a social philosopher who argued for the philosophical necessity of the fusion of history, linguistics, anthropology, sociology, and religion. Franz Rosenzweig certainly saw Rosenstock-Huessy in this light, and he once said to him: ‘You have never…been to me anything other than a “philosopher”’(1969, 82).[7] In this respect he belongs to that long line of critics of philosophy that range from ancients to moderns and comic poets to religious thinkers—from Aristophanes to Lucian, to Rabelais, from Tatian, to Tertullian to Luther, and Pascal to Marx and Nietzsche. All these critics have provided criticisms of philosophy that have ended up, in different ways, and at different times, transforming the direction and content of philosophy.",18.73789700805524,17.912832736909294,24,>18,1264,33,1.6431962025316456,221,803,28.943025508247047,12.376740506329115,22.182288632178135,10.92042049290372,267,35.5,21.840199462984273,21st and 22nd grade,8.60064499424626,96.6602
+C2,the_self,16-18,"A probing investigation into the psyche was a leading preoccupation for Nietzsche throughout his career, and this aspect of his thought has rightly been accorded central importance across a long stretch of the reception, all the way from Kaufmann (1950) to recent work by Pippin (2010), Katsafanas (2016), and others. Some of Nietzsche’s own programmatic reflections highlight the centrality of this enterprise: perhaps most famously, he closes an extended treatment of the shortcomings of previous philosophy (in Part I of Beyond Good and Evil) with a demand
+that psychology be recognized again as the queen of the sciences, for whose service and preparation the other sciences exist. For psychology is once again on the path to the fundamental problems. (BGE 23)
+In section 2, we saw that Nietzsche’s critique of morality rests crucially on psychological analyses that purport to expose the self-destructive effects of moral attitudes like guilt and ascetic self-denial, as well as the corrosive mismatch between the official claims of altruistic morality and its underlying motivation in ressentiment. On the positive side, Nietzsche is equally keen to detail the psychological conditions he thinks would be healthier for both individuals and cultures (see, e.g., GS Pref. and 382; BGE 212; TI V, 3 and VIII, 6–7). Thus, Nietzsche’s psychology is central to his evaluative agenda and to his projects as a cultural critic. Aside from its instrumental support for these other projects, Nietzsche pursues psychological inquiry for its own sake, and apparently also for the sake of the self-knowledge that it intrinsically involves (GM III, 9; GS Pref., 3 and 324; but cf. GM Pref., 1). Still, despite widespread appreciation of Nietzsche’s psychological acumen that started with Freud himself—and despite the centrality of psychology to his philosophical method, core questions, and evaluative aims—even the most basic outlines of his substantive psychology remain a matter of controversy. Debate begins with the object of psychology itself, the psyche, self, or soul.
+A significant body of Nietzschean texts express extreme skepticism that there is any such thing as a “self”, or “soul”, as well as doubts about the traditional faculties of the soul and the basic capacities they were supposed to exercise (thinking, willing, feeling). This passage from the notebooks is typical—“To indulge the fable of ‘unity,’ ‘soul,’ ‘person,’ this we have forbidden: with such hypotheses one only covers up the problem” (KSA 37[4] 11: 577)—and there are many, probably hundreds, like it (see D 109; GS 333; BGE 12, 17, 19, 54; GM I, 13; TI III, 5 and VI, 3). At the same time, Nietzsche’s own psychological analyses make free appeal not only to the self, but even to some of the traditional faculties, like the will, of which he is most skeptical elsewhere: for example, the “sovereign individual” of GM II, 1–3 is distinctive for developing a “memory of the will” that underwrites his capacity to keep promises and “vouch for himself as future” (GM I, 13); or again, Nietzsche’s favored strategy of deploying a multiplicity of perspectives in knowledge (see section 3.2.6) assumes the existence of a cognitive self that stands back from particular drives and affects, and so has “the ability to control one’s Pro and Con and dispose of them” in support of the larger cognitive project (GM III, 12, see also BGE 284).
+This apparent conflict in the texts has encouraged competing interpretations, with commentators emphasizing the strands in Nietzsche to which they have more philosophical sympathy. For example, strongly naturalist interpreters like Brian Leiter (2002, 2007) and Matthias Risse (2007) focus on Nietzsche’s skepticism about the will and the pure soul to reject any Kantian-style source of agency that can stand apart from and direct the person’s basic drives or fundamental nature. Somewhat similarly, readers attracted by a Cartesian conception of consciousness as the essence of the mental, but repelled by Cartesian dualism, highlight Nietzsche’s emphasis on the importance of the body (GM III, 16; Z I, 4) to suggest that his apparent claims about psychology should be heard instead as a kind of physiology of drives that rejects mental psychology altogether (for different versions, see Poellner 1995: 216–29, 174; Haar [1993] 1996: 90, et passim). Attacking unity rather than mentality, a group of readers interested in Nietzsche’s agonistic conception of politics tends to emphasize his similarly agonistic, internally contested, conception of the self (Hatab 1995; Acampora 2013). In a diametrically opposed direction from those first three, Sebastian Gardner (2009) insists that, while Nietzsche was sometimes tempted by skepticism about a self which can stand back from the solicitations of inclination and control them, his own doctrines about the creation of value and self-overcoming in fact commit him to something like a Kantian transcendental ego, despite his protestations to the contrary.
+Nietzsche’s actual psychological explanations rely heavily on appeals to sub-personal psychological attitudes. As Janaway (2009: 52) observes, a great many different kinds of attitude enter these accounts (including not only the standard beliefs and desires of current-day moral psychology, but also “wills”, feelings, sensations, moods, imaginings, memories, valuations, convictions, and more), but arguably the core attitudes that do the most work for him are drives and affects. These attitude types have been intensively studied in recent work (see esp. Richardson 1996 and Katsafanas 2011b, 2013, 2016; see also Anderson 2012a, Clark and Dudrick 2015). While much remains controversial, it is helpful to think of drives as dispositions toward general patterns of activity; they aim at activity of the relevant sort (e.g., an eating drive, a drive for power), and they also represent some more specific object or occasion of the activity in a particular case (e.g., this ice cream, or overcoming a particular problem in the course of writing a paper). Affects are emotional states that combine a receptive and felt responsiveness to the world with a tendency toward a distinctive pattern of reaction—states like love, hate, anger, fear, joy, etc. Typically, the sub-personal attitudes postulated in Nietzsche’s psychological explanations represent the world in one way or another. Since he endorses Leibniz’s thought that representation, not consciousness, is the decisive mark of the mental (GS 354), it is reasonable to treat these attitudes as distinctively psychological, whether they are conscious or not.",18.50867152575316,18.7741,24,>18,1029,30,1.7560738581146744,225,604,23.456651603498585,13.407968901846456,21.343498542274055,12.718722662779395,273,34.0,22.2331195335277,12th and 13th grade,8.717476870748298,82.23461999999999
